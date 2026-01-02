@@ -1,0 +1,99 @@
+#psourceevents-wrapper {
+    padding: 1em;
+}
+
+.psourceevents-list {
+    clear: both;
+    padding: 1em;
+}
+
+.psourceevents-list table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.psourceevents-list table th {
+    width: 12%;
+    background: #333;
+    color: #ddd;
+    padding: .4em;
+    cursor: default;
+}
+
+.psourceevents-list table td {
+    border: 1px solid #ddd;
+    height: 60px;
+}
+
+.psourceevents-list table td.today {
+    background: #ddd;
+}
+
+.psourceevents-list table td.now {
+    background: #ddf;
+}
+
+a.psourceevents-calendar-event {
+    display: block;
+    margin: .2em;
+    padding: .1em .4em;
+    background: #75AB24;
+    color: #fff;
+    text-decoration: none;
+    border: 1px solid #558B04;
+    border-radius: 5px;
+}
+
+a.psourceevents-calendar-event.open {
+    display: block;
+    margin: .2em;
+    padding: .1em .4em;
+    background: #75AB24;
+    color: #fff;
+    text-decoration: none;
+    border: 1px solid #558B04;
+    border-radius: 5px;
+}
+
+a.psourceevents-calendar-event:hover {
+    background: #659B14;
+    text-decoration: none;
+}
+
+.psourceevents-calendar-event-info {
+    display: none;
+    position: absolute;
+    padding: .4em;
+    min-width: 200px;
+    max-width: 450px;
+    background: #464646;
+    margin-top: 1em;
+    border: 1px solid #262626;
+    border-radius: 5px;
+    z-index: 999;
+}
+
+.psourceevents-weekly-calendar-hours-mins {
+    font-weight: bold;
+    font-size: 0.8em;
+    text-align: center;
+}
+.psourceevents-calendar-avatar,
+.psourceevents-calendar-thumbnail {
+    float: left;
+    width: 80px;
+    margin: 5px;
+}
+.psourceevents-calendar-author,
+.psourceevents-calendar-venue,
+.psourceevents-calendar-start {
+    font-weight: bold;
+    font-size: larger;
+    float: left;
+    width: 200px;
+}
+.psourceevents-calendar-bio,
+.psourceevents-calendar-content {
+    float: left;
+    width: 200px;
+}

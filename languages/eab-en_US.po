@@ -1,0 +1,5257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PS Events\n"
+"POT-Creation-Date: 2023-12-24 13:42+0100\n"
+"PO-Revision-Date: 2023-12-24 13:45+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: events-and-bookings.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: psource/psource-plugin-update/vendor\n"
+
+#: admin/class-eab-admin.php:56
+#, fuzzy
+msgid "Zeige Reaktionen"
+msgstr "Show reactions"
+
+#: admin/class-eab-admin.php:57
+msgid "Zurück zur Übersicht"
+msgstr "Back to the overview"
+
+#: admin/class-eab-admin.php:69
+#, fuzzy, php-format
+msgid ""
+"Du musst Deine Permalink-Struktur auf eine andere als die Standardstruktur "
+"aktualisieren, um PS-Events verwenden zu können. <a href=\"%s\">Erledige das "
+"gleich hier.</a>"
+msgstr ""
+"You need to update your permalink structure to something other than the "
+"default structure in order to use PS events. <a href=\"%s\">Do this right "
+"here.</a>"
+
+#: admin/class-eab-admin.php:103
+#, fuzzy
+msgid "Lade Karten... einen Augenblick, bitte"
+msgstr "Load cards... one moment, please"
+
+#: admin/class-eab-admin.php:104
+#, fuzzy
+msgid "Diese Karte einfügen"
+msgstr "Insert this card"
+
+#: admin/class-eab-admin.php:105
+#, fuzzy
+msgid "Vorschau/Bearbeiten"
+msgstr "Preview/Edit"
+
+#: admin/class-eab-admin.php:106
+msgid "Löschen"
+msgstr "Delete"
+
+#: admin/class-eab-admin.php:107
+#, fuzzy
+msgid "Karte hinzufügen"
+msgstr "Add map"
+
+#: admin/class-eab-admin.php:108
+#, fuzzy
+msgid "Vorhandene Karten"
+msgstr "Existing cards"
+
+#: admin/class-eab-admin.php:109
+#, fuzzy
+msgid "Keine Karten"
+msgstr "No cards"
+
+#: admin/class-eab-admin.php:110
+#, fuzzy
+msgid "Neue Karte erstellen"
+msgstr "Create new map"
+
+#: admin/class-eab-admin.php:111
+#, fuzzy
+msgid "Erweiterter Modus"
+msgstr "Extended mode"
+
+#: admin/class-eab-admin.php:112
+#, fuzzy
+msgid ""
+"Aktiviere den erweiterten Modus, um einzelne Karten auszuwählen, die zu "
+"einer neuen Karte zusammengeführt werden sollen, oder um Karten im Stapel zu "
+"löschen"
+msgstr ""
+"Activate advanced mode to select individual cards to be merged into a new "
+"card or to delete cards from the deck"
+
+#: admin/class-eab-admin.php:113
+#, fuzzy
+msgid ""
+"Um eine neue Karte aus mehreren Karten zu erstellen, wähle die Karten aus, "
+"welche Du verwenden möchtest, und klicke auf Standorte zusammenführen"
+msgstr ""
+"To create a new map from several maps, select the maps you want to use and "
+"click on Merge locations"
+
+#: admin/class-eab-admin.php:114
+#, fuzzy
+msgid "Erweiterten Modus verlassen"
+msgstr "Exit extended mode"
+
+#: admin/class-eab-admin.php:115
+#, fuzzy
+msgid "Standorte zusammenführen"
+msgstr "Merging locations"
+
+#: admin/class-eab-admin.php:116
+#, fuzzy
+msgid "Batch löschen"
+msgstr "Delete batch"
+
+#: admin/class-eab-admin.php:117
+#, fuzzy
+msgid ""
+"Erstelle eine neue Karte, die in diesen Beitrag oder diese Seite eingefügt "
+"werden kann. Sobald Du fertig bist, kannst Du alle unten stehenden Karten "
+"verwalten"
+msgstr ""
+"Create a new map that can be inserted into this post or page. Once you are "
+"finished, you can manage all the cards below"
+
+#: admin/class-eab-admin.php:174
+#, fuzzy
+msgid "Teilnahme / Unentschlossen"
+msgstr "Participation / Undecided"
+
+#: admin/class-eab-admin.php:175
+#, fuzzy
+msgid "Nicht teilnehmen"
+msgstr "Do not participate"
+
+#: admin/class-eab-admin.php:178 events-and-bookings.php:1089
+msgid "Exportieren"
+msgstr "Export"
+
+#: admin/class-eab-admin.php:195
+#, fuzzy, php-format
+msgid "Vom %s, wiederholt alle %s bis zum %s"
+msgstr "From %s, repeated every %s to %s"
+
+#: admin/class-eab-admin.php:208
+#, fuzzy
+msgid "Draft"
+msgstr "Draft"
+
+#: admin/class-eab-admin.php:209
+#, fuzzy
+msgid "Private"
+msgstr "Private"
+
+#: admin/class-eab-admin.php:210
+#, fuzzy
+msgid "Pending"
+msgstr "Pending"
+
+#: admin/class-eab-admin.php:214
+#, fuzzy, php-format
+msgid "Bearbeite &#8220;%s&#8221;"
+msgstr "Edit \"%s\""
+
+#: admin/class-eab-admin.php:219
+msgid "Veranstaltung bearbeiten"
+msgstr "Edit event"
+
+#: admin/class-eab-admin.php:219
+msgid "Bearbeiten"
+msgstr "Edit"
+
+#: admin/class-eab-admin.php:220
+#, fuzzy
+msgid "Bearbeite dieses Ereignis inline"
+msgstr "Edit this event inline"
+
+#: admin/class-eab-admin.php:220
+#, fuzzy
+msgid "Schnelles&nbsp;Bearbeiten"
+msgstr "Fast editing"
+
+#: admin/class-eab-admin.php:228
+#, fuzzy, php-format
+msgid "Wiederhergestellt &#8220;%s&#8221; aus dem Papierkorb"
+msgstr "Restored \"%s\" from the recycle bin"
+
+#: admin/class-eab-admin.php:229
+msgid "Wiederherstellen"
+msgstr "Restore"
+
+#: admin/class-eab-admin.php:232
+#, fuzzy
+msgid "Verschiebe dieses Ereignis in den Papierkorb"
+msgstr "Move this event to the trash"
+
+#: admin/class-eab-admin.php:232
+msgid "Papierkorb"
+msgstr "Recycle bin"
+
+#: admin/class-eab-admin.php:235
+#, fuzzy
+msgid "Lösche dieses Ereignis dauerhaft"
+msgstr "Delete this event permanently"
+
+#: admin/class-eab-admin.php:235
+#, fuzzy
+msgid "Dauerhaft löschen"
+msgstr "Permanently delete"
+
+#: admin/class-eab-admin.php:247
+#, fuzzy, php-format
+msgid "Ansehen &#8220;%s&#8221;"
+msgstr "View \"%s\""
+
+#: admin/class-eab-admin.php:247
+msgid "Ansehen"
+msgstr "View"
+
+#: admin/class-eab-admin.php:272
+msgid "Wann"
+msgstr "When"
+
+#: admin/class-eab-admin.php:273
+msgid "Wo"
+msgstr "where"
+
+#: admin/class-eab-admin.php:276
+#, fuzzy
+msgid "Reaktionen"
+msgstr "Reactions"
+
+#: admin/class-eab-get-started-menu.php:10
+#: admin/class-eab-get-started-menu.php:11
+#, fuzzy
+msgid "Eventboard"
+msgstr "Eventboard"
+
+#: admin/class-eab-get-started-menu.php:25
+#, fuzzy
+msgid "PS-Events Dashboard"
+msgstr "PS Events Dashboard"
+
+#. Description of the plugin/theme
+#: admin/class-eab-get-started-menu.php:28
+#, fuzzy
+msgid ""
+"PS-Events fügt Deiner Webseite oder Deiner Multisite ein mächtiges Events & "
+"Bookings System hinzu."
+msgstr ""
+"PS-Events adds a powerful events & bookings system to your website or "
+"multisite."
+
+#: admin/class-eab-get-started-menu.php:33
+#, fuzzy
+msgid "Loslegen"
+msgstr "Get started"
+
+#: admin/class-eab-get-started-menu.php:35
+#, fuzzy
+msgid ""
+"Du bist fast bereit! Befolge diese Schritte und erstelle Ereignisse auf "
+"Deiner WordPress-Seite."
+msgstr ""
+"You're almost ready! Follow these steps and create events on your WordPress "
+"site."
+
+#: admin/class-eab-get-started-menu.php:38
+#, fuzzy
+msgid ""
+"Bevor Du ein Ereignis erstellst, musst Du einige Grundeinstellungen "
+"konfigurieren, z. B. Deinen Root-Slug und die Zahlungsoptionen."
+msgstr ""
+"Before you create an event, you need to configure some basic settings, e.g. "
+"your root slug and payment options."
+
+#: admin/class-eab-get-started-menu.php:39
+#, fuzzy
+msgid "Konfiguriere Deine Einstellungen"
+msgstr "Configure your settings"
+
+#: admin/class-eab-get-started-menu.php:42
+#, fuzzy
+msgid "Jetzt kannst Du Dein erstes Ereignis erstellen."
+msgstr "Now you can create your first event."
+
+#: admin/class-eab-get-started-menu.php:43 lib/class-eab-taxonomies.php:19
+#: lib/plugins/eab-events-front_page_editing.php:153
+msgid "Ereignis hinzufügen"
+msgstr "添加事件"
+
+#: admin/class-eab-get-started-menu.php:46
+#, fuzzy
+msgid "Du kannst vorhandenen Ereignisse jederzeit anzeigen und bearbeiten."
+msgstr "You can view and edit existing events at any time."
+
+#: admin/class-eab-get-started-menu.php:47
+#: lib/plugins/eab-events-capabilities.php:19
+#, fuzzy
+msgid "Ereignisse bearbeiten"
+msgstr "Edit events"
+
+#: admin/class-eab-get-started-menu.php:50
+#, fuzzy
+msgid ""
+"Das Archiv zeigt eine Liste der bevorstehenden Ereignisse auf Deiner Seite "
+"an."
+msgstr "The archive displays a list of upcoming events on your page."
+
+#: admin/class-eab-get-started-menu.php:51
+#, fuzzy
+msgid "Veranstaltungsarchiv"
+msgstr "Event archive"
+
+#: admin/class-eab-get-started-menu.php:61
+#, fuzzy
+msgid "Brauchst Du Hilfe?"
+msgstr "Do you need help?"
+
+#: admin/class-eab-get-started-menu.php:64
+#, fuzzy
+msgid "Projektseite auf Webmasterservice N3rds@Work"
+msgstr "Project page on Webmasterservice N3rds@Work"
+
+#: admin/class-eab-get-started-menu.php:65
+#, fuzzy
+msgid "Stelle eine Frage zu diesem Plugin in unseren Support-Foren"
+msgstr "Ask a question about this plugin in our support forums"
+
+#: admin/class-eab-get-started-menu.php:66
+#, fuzzy
+msgid "GitHub Repo"
+msgstr "GitHub Repo"
+
+#: admin/class-eab-settings-menu.php:10 admin/views/settings-menu.php:6
+#, fuzzy
+msgid "PS-Event Einstellungen"
+msgstr "PS event settings"
+
+#: admin/class-eab-settings-menu.php:11
+msgid "Einstellungen"
+msgstr "Settings"
+
+#: admin/class-eab-settings-menu.php:81
+#, fuzzy, php-format
+msgid "Plugin: %s"
+msgstr "Plugin: %s"
+
+#: admin/class-eab-settings-menu.php:84
+#, fuzzy, php-format
+msgid "Theme: %s"
+msgstr "Theme: %s"
+
+#: admin/class-eab-shortcodes-menu.php:8 admin/class-eab-shortcodes-menu.php:59
+#, fuzzy
+msgid "PS-Event Shortcodes"
+msgstr "PS event shortcodes"
+
+#: admin/class-eab-shortcodes-menu.php:9
+#, fuzzy
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: admin/class-eab-shortcodes-menu.php:35
+#: lib/contextual_help/class_eab_admin_help.php:57
+#: lib/plugins/eab-events-front_page_editing.php:420
+#: lib/plugins/eab-events-front_page_editing.php:440
+msgid "Datum:"
+msgstr "Date:"
+
+#: admin/class-eab-shortcodes-menu.php:39
+#: lib/contextual_help/class_eab_admin_help.php:61
+#, fuzzy
+msgid "Argumente:"
+msgstr "Arguments:"
+
+#: admin/views/settings-menu.php:2
+msgid "Einstellungen gespeichert."
+msgstr "Settings saved."
+
+#: admin/views/settings-menu.php:9
+#, fuzzy
+msgid ""
+"Hier verwaltest Du Deine allgemeinen Einstellungen für das Plugin und wie "
+"Ereignisse auf Deiner Seite angezeigt werden."
+msgstr ""
+"Here you can manage your general settings for the plugin and how events are "
+"displayed on your site."
+
+#: admin/views/settings-menu.php:18
+#, fuzzy
+msgid "Plugin Einstellungen"
+msgstr "Plugin settings"
+
+#: admin/views/settings-menu.php:21
+#, fuzzy
+msgid "Stelle hier Root-Slug ein:"
+msgstr "Set root slug here:"
+
+#: admin/views/settings-menu.php:23
+#, fuzzy
+msgid ""
+"Dies ist die URL, unter der sich Dein Ereignisarchiv befindet. Standardmäßig "
+"lautet das Format yoursite.com/events. Du kannst dies jedoch nach Belieben "
+"ändern."
+msgstr ""
+"This is the URL under which your event archive is located. By default, the "
+"format is yoursite.com/events. However, you can change this as you wish."
+
+#: admin/views/settings-menu.php:26
+#, fuzzy
+msgid "Stelle absteigende Reihenfolge nach Startdatum ein:"
+msgstr "Set descending order by start date:"
+
+#: admin/views/settings-menu.php:31
+#, fuzzy
+msgid ""
+"Dies ist die Bestellrichtung, in der Ihr Veranstaltungsarchiv bestellt "
+"werden kann. Standardmäßig ist die Richtung aufsteigend."
+msgstr ""
+"This is the order direction in which your event archive can be ordered. By "
+"default, the direction is ascending."
+
+#: admin/views/settings-menu.php:34
+#, fuzzy
+msgid "Paginierung einstellen (Ereignisse):"
+msgstr "Set pagination (events):"
+
+#: admin/views/settings-menu.php:36
+#, fuzzy
+msgid ""
+"Dies ist die Paginierung für das Ereignisarchiv. Standardmäßig - 0, ohne "
+"Paginierung."
+msgstr ""
+"This is the pagination for the event archive. By default - 0, without "
+"pagination."
+
+#: admin/views/settings-menu.php:40
+#, fuzzy
+msgid "Akzeptierst Du Zahlung für eine Deiner Veranstaltungen?"
+msgstr "Do you accept payment for one of your events?"
+
+#: admin/views/settings-menu.php:42
+#, fuzzy
+msgid ""
+"Lasse dieses Kontrollkästchen deaktiviert, wenn Du zu keinem Zeitpunkt eine "
+"Zahlung einziehen möchtest."
+msgstr ""
+"Leave this checkbox unchecked if you do not want to collect a payment at any "
+"time."
+
+#: admin/views/settings-menu.php:46
+#, fuzzy
+msgid "Erlaube Facebook und Twitter Login?"
+msgstr "Allow Facebook and Twitter login?"
+
+#: admin/views/settings-menu.php:48
+#, fuzzy
+msgid ""
+"Aktiviere dieses Kontrollkästchen, damit Gäste mit ihrem Facebook- oder "
+"Twitter-Konto zu einer Veranstaltung antworten können. (Wenn diese Funktion "
+"nicht aktiviert ist, benötigen Gäste ein WordPress-Konto für RSVPs)."
+msgstr ""
+"Check this box to allow guests to RSVP to an event using their Facebook or "
+"Twitter account. (If this feature is not enabled, guests will need a "
+"WordPress account to RSVP)."
+
+#: admin/views/settings-menu.php:52
+#, fuzzy
+msgid "Öffentliche RSVPs anzeigen?"
+msgstr "Display public RSVPs?"
+
+#: admin/views/settings-menu.php:54
+#, fuzzy
+msgid ""
+"Aktiviere dieses Kontrollkästchen, um in den Ereignisdetails eine Liste mit "
+"den Teilnehmern anzuzeigen."
+msgstr ""
+"Activate this checkbox to display a list of participants in the event "
+"details."
+
+#: admin/views/settings-menu.php:60
+#, fuzzy
+msgid "Darstellung Einstellungen"
+msgstr "Display settings"
+
+#: admin/views/settings-menu.php:63
+#, fuzzy
+msgid "Standarddarstellung überschreiben?"
+msgstr "Overwrite standard display?"
+
+#: admin/views/settings-menu.php:65
+#, fuzzy
+msgid ""
+"Aktiviere dieses Kontrollkästchen, wenn Du das Erscheinungsbild Deiner "
+"Ereignisse mit überschreibenden Vorlagen anpassen möchtest."
+msgstr ""
+"Activate this checkbox if you want to customize the appearance of your "
+"events with overriding templates."
+
+#: admin/views/settings-menu.php:70
+#, fuzzy
+msgid "Archivvorlage"
+msgstr "Archive template"
+
+#: admin/views/settings-menu.php:78 admin/views/settings-menu.php:94
+#, fuzzy
+msgid "* Vorlagen funktionieren möglicherweise nicht in allen Themen"
+msgstr "* Templates may not work in all themes"
+
+#: admin/views/settings-menu.php:79
+#, fuzzy
+msgid ""
+"Wähle aus, wie das Ereignisarchiv auf Deiner Seite angezeigt werden soll."
+msgstr "Select how the event archive should be displayed on your page."
+
+#: admin/views/settings-menu.php:86
+#, fuzzy
+msgid "Einzelereignisvorlage"
+msgstr "Single event template"
+
+#: admin/views/settings-menu.php:95
+#, fuzzy
+msgid ""
+"Wähle aus, wie einzelne Ereignislisten auf Deiner Seite angezeigt werden "
+"sollen."
+msgstr "Select how individual event lists should be displayed on your page."
+
+#: admin/views/settings-menu.php:108
+#, fuzzy
+msgid "Zahlungseinstellungen"
+msgstr "Payment settings"
+
+#: admin/views/settings-menu.php:111
+msgid "Währung"
+msgstr "Currency"
+
+#: admin/views/settings-menu.php:113
+#, fuzzy, php-format
+msgid ""
+"Nominiere die Währung, in der Du Zahlung für Deine Veranstaltungen "
+"akzeptierst. Weitere Informationen findest Du unter <a href=\"%s\" target="
+"\"_blank\">Akzeptierte PayPal-Währungscodes</a>."
+msgstr ""
+"Nominate the currency in which you accept payment for your events. You can "
+"find more information under <a href=\"%s\" target=\"_blank\">Accepted PayPal "
+"currency codes</a>."
+
+#: admin/views/settings-menu.php:117
+#, fuzzy
+msgid "PayPal E-Mail Addresse"
+msgstr "PayPal e-mail address"
+
+#: admin/views/settings-menu.php:119
+#, fuzzy
+msgid ""
+"Füge die primäre E-Mail-Adresse des PayPal-Kontos hinzu, mit dem Du die "
+"Zahlung für Deine Veranstaltungen einziehen möchtest."
+msgstr ""
+"Add the primary email address of the PayPal account you want to use to "
+"collect payment for your events."
+
+#: admin/views/settings-menu.php:123
+#, fuzzy
+msgid "PayPal Sandbox Modus?"
+msgstr "PayPal sandbox mode?"
+
+#: admin/views/settings-menu.php:125
+#, fuzzy
+msgid "Verwende den PayPal Sandbox-Modus zum Testen Deiner Zahlungen"
+msgstr "Use the PayPal sandbox mode to test your payments"
+
+#: admin/views/settings-menu.php:133
+#, fuzzy
+msgid "Erweiterungen"
+msgstr "Extensions"
+
+#: admin/views/settings-menu.php:143
+msgid "Speichern"
+msgstr "Save"
+
+#: admin/views/settings-menu.php:145
+#, fuzzy
+msgid "Gehe zurück zu Erste Schritte"
+msgstr "Go back to First steps"
+
+#: admin/views/settings-menu.php:151
+#, fuzzy
+msgid "Lade...einen Augenblick bitte..."
+msgstr "Loading...one moment please..."
+
+#: default-templates/calendar/archive-psource_event.php:20
+#, php-format
+msgid "Veranstaltungen im %s"
+msgstr "Courses in %s"
+
+#: default-templates/default/archive-psource_event.php:8
+#: default-templates/full-width/archive-psource_event.php:8
+#: lib/class_eab_template.php:380
+msgid "Events"
+msgstr "Events"
+
+#: default-templates/default/archive-psource_event.php:19
+#: default-templates/full-width/archive-psource_event.php:19
+#, fuzzy
+msgid "View event"
+msgstr "View event"
+
+#: default-templates/default/single-psource_event.php:32
+#: lib/class_eab_template.php:70
+#, fuzzy
+msgid "Du hast für diese Veranstaltung nicht bezahlt"
+msgstr "You have not paid for this event"
+
+#: default-templates/default/single-psource_event.php:41
+#: lib/class_eab_template.php:98
+#, fuzzy
+msgid "Über diese Veranstaltung:"
+msgstr "About this event:"
+
+#: default-templates/default/single-psource_event.php:43
+#: lib/class_eab_template.php:99
+#, fuzzy
+msgid "Erstellt von "
+msgstr "Created by"
+
+#: events-and-bookings.php:331
+#, fuzzy
+msgid ""
+"Hervorragend, noch ein paar Schritte! Du musst Dich anmelden oder "
+"registrieren, damit Du als kommend markiert werden kannst!"
+msgstr ""
+"Excellent, a few more steps! You must log in or register to be marked as "
+"coming!"
+
+#: events-and-bookings.php:335
+#, fuzzy
+msgid ""
+"Bitte melde Dich an oder registriere Dich, um uns über Änderungen des "
+"Ereignisses zu informieren und Deine Antwort aufzuzeichnen!"
+msgstr ""
+"Please log in or register to notify us of changes to the event and record "
+"your response!"
+
+#: events-and-bookings.php:339
+#, fuzzy
+msgid ""
+"Das ist schade, dass Du es nicht schaffen wirst. Wenn Du Dich anmeldest oder "
+"registrierst, können wir Deine Antwort aufzeichnen"
+msgstr ""
+"That's a shame that you won't be able to make it. If you log in or register, "
+"we can record your answer"
+
+#: events-and-bookings.php:632 lib/class_eab_admin_tutorial.php:65
+#: lib/contextual_help/class_eab_admin_help.php:146
+msgid "Veranstaltungsdetails"
+msgstr "Course details"
+
+#: events-and-bookings.php:633
+#, fuzzy
+msgid "Ereignis RSVPs"
+msgstr "Event RSVPs"
+
+#: events-and-bookings.php:635
+#, fuzzy
+msgid "Folgen der Schritt-für-Schritt-Anleitung?"
+msgstr "Follow the step-by-step instructions?"
+
+#: events-and-bookings.php:711 lib/class_eab_admin_tutorial.php:34
+#: lib/class_eab_admin_tutorial.php:40
+#: lib/contextual_help/class_eab_admin_help.php:148
+msgid "Veranstaltungsort"
+msgstr "Venue"
+
+#: events-and-bookings.php:725
+#, fuzzy
+msgid "Veranstaltung Zeit und Datum"
+msgstr "Event Time and date"
+
+#: events-and-bookings.php:742 events-and-bookings.php:763
+#, fuzzy, php-format
+msgid "Teil %d"
+msgstr "Part %d"
+
+#: events-and-bookings.php:742 lib/plugins/eab-payment-multiple_prices.php:96
+#, fuzzy
+msgid "Entferne"
+msgstr "Remove"
+
+#: events-and-bookings.php:744 events-and-bookings.php:765
+#: events-and-bookings.php:790
+#, fuzzy, php-format
+msgid "%sEvent beginnt%s"
+msgstr "%sEvent starts%s"
+
+#: events-and-bookings.php:748 events-and-bookings.php:769
+#: events-and-bookings.php:794
+#: lib/plugins/eab-events-front_page_editing.php:430
+#, fuzzy
+msgid "Keine Startzeit"
+msgstr "No start time"
+
+#: events-and-bookings.php:752 events-and-bookings.php:773
+#: events-and-bookings.php:798
+#, fuzzy, php-format
+msgid "%sEvent endet%s"
+msgstr "%sEvent ends%s"
+
+#: events-and-bookings.php:756 events-and-bookings.php:777
+#: events-and-bookings.php:802
+#: lib/plugins/eab-events-front_page_editing.php:450
+#, fuzzy
+msgid "Keine Endzeit"
+msgstr "No end time"
+
+#: events-and-bookings.php:763 events-and-bookings.php:788
+msgid "Entfernen"
+msgstr "Remove"
+
+#: events-and-bookings.php:783
+#, fuzzy
+msgid "Klicken um weiteres Datum hinzuzufügen"
+msgstr "Click to add another date"
+
+#: events-and-bookings.php:788
+#, fuzzy
+msgid "Teilbank"
+msgstr "Partial bank"
+
+#: events-and-bookings.php:818
+#, fuzzy
+msgid "Instanzen bearbeiten"
+msgstr "Edit instances"
+
+#: events-and-bookings.php:841
+#, fuzzy
+msgid "Dies ist ein wiederkehrendes Ereignis"
+msgstr "This is a recurring event"
+
+#: events-and-bookings.php:842
+#, fuzzy
+msgid "Dies ist eine einmalige Veranstaltung"
+msgstr "This is a one-off event"
+
+#: events-and-bookings.php:866
+#, fuzzy
+msgid "Beginnt am"
+msgstr "Starts on"
+
+#: events-and-bookings.php:872
+#, fuzzy
+msgid "Wiederhole alle"
+msgstr "Repeat all"
+
+#: events-and-bookings.php:874
+#, fuzzy
+msgid "Wähle eins"
+msgstr "Choose one"
+
+#: events-and-bookings.php:893 events-and-bookings.php:902
+#, fuzzy
+msgid "Am"
+msgstr "On"
+
+#: events-and-bookings.php:894 events-and-bookings.php:903
+#: events-and-bookings.php:925 events-and-bookings.php:967
+#: events-and-bookings.php:1001 events-and-bookings.php:1009
+#, fuzzy
+msgid "Um"
+msgstr "To"
+
+#: events-and-bookings.php:935
+#, fuzzy
+msgid "Ersten"
+msgstr "First"
+
+#: events-and-bookings.php:936
+msgid "Zweite"
+msgstr "2nd"
+
+#: events-and-bookings.php:937
+msgid "Dritte"
+msgstr "3rd"
+
+#: events-and-bookings.php:938
+msgid "Vierte"
+msgstr "4th"
+
+#: events-and-bookings.php:939
+msgid "Fünfte"
+msgstr "5th"
+
+#: events-and-bookings.php:940
+msgid "Letzte"
+msgstr "Last"
+
+#: events-and-bookings.php:966
+#, fuzzy, php-format
+msgid "Jeden %s %s"
+msgstr "Every %s %s"
+
+#: events-and-bookings.php:1000
+#, fuzzy, php-format
+msgid "Jede %s Woche, am %s"
+msgstr "Every %s week, on %s"
+
+#: events-and-bookings.php:1015
+#, fuzzy
+msgid "Bis zum"
+msgstr "Until the"
+
+#: events-and-bookings.php:1021
+#, fuzzy
+msgid "Ereignisdauer"
+msgstr "Event duration"
+
+#: events-and-bookings.php:1022
+msgid "Stunden"
+msgstr "Hours"
+
+#: events-and-bookings.php:1039 lib/class_eab_admin_tutorial.php:53
+#, fuzzy
+msgid "Ereignisstatus"
+msgstr "Event status"
+
+#: events-and-bookings.php:1042
+#, fuzzy
+msgid "Wie ist der Ereignisstatus? "
+msgstr "What is the event status?"
+
+#: events-and-bookings.php:1044
+msgid "Offen"
+msgstr "Open"
+
+#: events-and-bookings.php:1045
+#: lib/plugins/eab-events-countdown-for-next-event.php:165
+#: lib/plugins/eab-events-countdown-for-next-event.php:316
+#: lib/plugins/eab-events-event-countdown.php:163
+#: lib/plugins/eab-events-next-event-shortcode.php:62
+#: lib/plugins/eab-events-next-event-shortcode.php:115
+msgid "Geschlossen"
+msgstr "Closed"
+
+#: events-and-bookings.php:1046
+#: lib/plugins/eab-events-front_page_editing.php:469
+msgid "Abgelaufen"
+msgstr "Expired"
+
+#: events-and-bookings.php:1047
+#: lib/plugins/eab-events-front_page_editing.php:470
+#, fuzzy
+msgid "Archiviert"
+msgstr "Archived"
+
+#: events-and-bookings.php:1066 lib/class_eab_admin_tutorial.php:59
+#, fuzzy
+msgid "Ereignistyp"
+msgstr "Event type"
+
+#: events-and-bookings.php:1067
+#, fuzzy
+msgid "Ist das eine bezahlte Veranstaltung? "
+msgstr "Is this a paid event?"
+
+#: events-and-bookings.php:1069
+#: lib/plugins/eab-email-enewsletter_integration.php:299
+#: lib/plugins/eab-events-front_page_editing.php:481
+#: lib/plugins/eab-rsvps-additional_registration_fields.php:192
+#: lib/plugins/eab-rsvps-additional_registration_fields.php:195
+#: lib/plugins/eab-rsvps-additional_registration_fields.php:246
+#: lib/plugins/eab-rsvps-additional_registration_fields.php:248
+msgid "Ja"
+msgstr "Yes"
+
+#: events-and-bookings.php:1070 lib/class_eab_addon_handler.php:262
+#: lib/plugins/eab-email-enewsletter_integration.php:301
+#: lib/plugins/eab-events-front_page_editing.php:482
+#: lib/plugins/eab-rsvps-additional_registration_fields.php:192
+#: lib/plugins/eab-rsvps-additional_registration_fields.php:195
+#: lib/plugins/eab-rsvps-additional_registration_fields.php:246
+#: lib/plugins/eab-rsvps-additional_registration_fields.php:248
+msgid "Nein"
+msgstr "No"
+
+#: events-and-bookings.php:1075
+#, fuzzy
+msgid "Gebühr"
+msgstr "Fee"
+
+#: events-and-bookings.php:1122
+#, fuzzy
+msgid "Keine Buchungen"
+msgstr "No bookings"
+
+#: events-and-bookings.php:1452
+#, fuzzy
+msgid "Einmal alle halbe Stunde"
+msgstr "Once every half hour"
+
+#: lib/class-eab-taxonomies.php:17 lib/class-eab-taxonomies.php:27
+#: lib/plugins/eab-buddypres-my_events.php:52
+#: lib/plugins/eab-events-front_page_editing.php:170
+msgid "Veranstaltungen"
+msgstr "Events"
+
+#: lib/class-eab-taxonomies.php:18
+msgid "Veranstaltung"
+msgstr "Event"
+
+#: lib/class-eab-taxonomies.php:20
+#, fuzzy
+msgid "Neues Ereignis hinzufügen"
+msgstr "Add new event"
+
+#: lib/class-eab-taxonomies.php:21
+#, fuzzy
+msgid "Ereignis bearbeiten"
+msgstr "Edit event"
+
+#: lib/class-eab-taxonomies.php:22
+#, fuzzy
+msgid "Neues Ereignis erstellen"
+msgstr "Create new event"
+
+#: lib/class-eab-taxonomies.php:23 lib/class_eab_template.php:30
+#: lib/plugins/eab-event-recurring-shortcode.php:95
+#, fuzzy
+msgid "Ereignis anzeigen"
+msgstr "Show event"
+
+#: lib/class-eab-taxonomies.php:24
+#, fuzzy
+msgid "Ereignis suchen"
+msgstr "Search event"
+
+#: lib/class-eab-taxonomies.php:25
+#, fuzzy
+msgid "Kein Ereignis gefunden"
+msgstr "No event found"
+
+#: lib/class-eab-taxonomies.php:26
+#, fuzzy
+msgid "Kein Ereignis in Papierkorb gefunden"
+msgstr "No event found in recycle bin"
+
+#: lib/class-eab-taxonomies.php:62
+#, fuzzy
+msgid "Ereigniskategorien"
+msgstr "Event categories"
+
+#: lib/class-eab-taxonomies.php:63
+#, fuzzy
+msgid "Ereigniskategorie"
+msgstr "Event category"
+
+#: lib/class-eab-taxonomies.php:84
+#, fuzzy
+msgid "Wiederkehrend"
+msgstr "Recurring"
+
+#: lib/class-eab-taxonomies.php:88
+#, fuzzy, php-format
+msgid "Recurrent <span class=\"count\">(%s)</span>"
+msgid_plural "Recurrent <span class=\"count\">(%s)</span>"
+msgstr[0] "Recurrent <span class=\"count\">(%s</span> )"
+msgstr[1] "Recurrent <span class=\"count\">(%s</span> )"
+
+#: lib/class_eab_addon_handler.php:211
+msgid "Deaktivieren"
+msgstr "Disable"
+
+#: lib/class_eab_addon_handler.php:213
+msgid "Aktivieren"
+msgstr "Activate"
+
+#: lib/class_eab_addon_handler.php:219
+#, php-format
+msgid "Version %s"
+msgstr "Version %s"
+
+#: lib/class_eab_addon_handler.php:221
+#, fuzzy, php-format
+msgid "von %s"
+msgstr "from %s"
+
+#: lib/class_eab_addon_handler.php:237 lib/class_eab_addon_handler.php:253
+#: lib/widgets/UpcomingCalendar_Widget.class.php:64
+#: lib/widgets/Upcoming_Widget.class.php:189
+msgid "Alle"
+msgstr "All"
+
+#: lib/class_eab_addon_handler.php:245
+msgid "Filter"
+msgstr "Filter"
+
+#: lib/class_eab_addon_handler.php:251
+#, fuzzy
+msgid "Zeige"
+msgstr "Show"
+
+#: lib/class_eab_addon_handler.php:254 lib/class_eab_addon_handler.php:263
+#, fuzzy
+msgid "Aktive"
+msgstr "Active"
+
+#: lib/class_eab_addon_handler.php:255
+#, fuzzy
+msgid "Inaktive"
+msgstr "Inactive"
+
+#: lib/class_eab_addon_handler.php:260
+msgid "Prüfen"
+msgstr "Check"
+
+#: lib/class_eab_addon_handler.php:268
+#, fuzzy
+msgid ""
+"Du bist dabei, mehrere Add-Ons zu aktivieren. Bist Du sicher, dass Du dies "
+"tun möchtest?"
+msgstr ""
+"You are about to activate several add-ons. Are you sure you want to do this?"
+
+#: lib/class_eab_addon_handler.php:268
+#, fuzzy
+msgid "Aktiviere ausgewählte"
+msgstr "Activate selected"
+
+#: lib/class_eab_addon_handler.php:270
+#, fuzzy
+msgid ""
+"Du bist dabei, mehrere Add-Ons zu deaktivieren. Bist Du sicher, dass Du dies "
+"tun möchtest?"
+msgstr ""
+"You are about to deactivate several add-ons. Are you sure you want to do "
+"this?"
+
+#: lib/class_eab_addon_handler.php:270
+#, fuzzy
+msgid "Deaktiviere ausgewählte"
+msgstr "Deactivate selected"
+
+#: lib/class_eab_addon_handler.php:279
+msgid "Name"
+msgstr "Name"
+
+#: lib/class_eab_addon_handler.php:280
+msgid "Beschreibung"
+msgstr "Description"
+
+#: lib/class_eab_addon_handler.php:437 lib/class_eab_addon_handler.php:456
+#, fuzzy
+msgid ""
+"Bei der Add-On-Manipulation ist möglicherweise ein Fehler aufgetreten. "
+"Überprüfe Deinen Add-On-Status"
+msgstr ""
+"An error may have occurred during add-on manipulation. Check your add-on "
+"status"
+
+#: lib/class_eab_addon_handler.php:438
+#, fuzzy
+msgid "Erweiterung erfolgreich (de)aktiviert"
+msgstr "Extension successfully (de)activated"
+
+#: lib/class_eab_addon_handler.php:441
+#, fuzzy
+msgid "Beim (De-)Aktivieren des Add-Ons stimmte etwas nicht."
+msgstr "Something was wrong when I (de)activated the add-on."
+
+#: lib/class_eab_addon_handler.php:457
+#, fuzzy
+msgid "Ausgewählte Add-Ons wurden erfolgreich (de)aktiviert"
+msgstr "Selected add-ons have been successfully (de)activated"
+
+#: lib/class_eab_addon_handler.php:460
+#, fuzzy
+msgid ""
+"Es ging etwas schief, als zumindest einige der ausgewählten Add-Ons "
+"(de)aktiviert wurden."
+msgstr ""
+"Something went wrong when at least some of the selected add-ons were "
+"(de)activated."
+
+#: lib/class_eab_admin_tutorial.php:27
+#, fuzzy
+msgid "Ereignistitel"
+msgstr "Event title"
+
+#: lib/class_eab_admin_tutorial.php:28
+#, fuzzy
+msgid "Was ist los"
+msgstr "What's going on"
+
+#: lib/class_eab_admin_tutorial.php:35
+#, fuzzy
+msgid ""
+"Wo? Gib die Adresse ein oder füge eine Karte ein, indem Du auf das "
+"Globussymbol klickst"
+msgstr ""
+"Where? Enter the address or insert a map by clicking on the globe symbol"
+
+#: lib/class_eab_admin_tutorial.php:41
+#, fuzzy
+msgid "Wo? Gib die Adresse ein"
+msgstr "Where? Enter the address"
+
+#: lib/class_eab_admin_tutorial.php:47
+#, fuzzy
+msgid "Veranstaltungszeit und -daten"
+msgstr "Event time and dates"
+
+#: lib/class_eab_admin_tutorial.php:48
+#, fuzzy
+msgid "Wann? YYYY-mm-dd HH:mm"
+msgstr "When? YYYY-mm-dd HH:mm"
+
+#: lib/class_eab_admin_tutorial.php:54
+#, fuzzy
+msgid "Ist diese Veranstaltung noch offen für RSVP?"
+msgstr "Is this event still open for RSVP?"
+
+#: lib/class_eab_admin_tutorial.php:60
+#, fuzzy
+msgid ""
+"Ist das eine bezahlte Veranstaltung? Wähle Ja und gib in das angezeigte "
+"Textfeld ein, wie viel Du berechnen möchtest"
+msgstr ""
+"Is this a paid event? Select Yes and enter how much you want to charge in "
+"the text field that appears"
+
+#: lib/class_eab_admin_tutorial.php:66
+#, fuzzy
+msgid "Mehr zur Veranstaltung"
+msgstr "More about the event"
+
+#: lib/class_eab_admin_tutorial.php:71
+#, fuzzy
+msgid "Veranstaltungs RSVPs"
+msgstr "Event RSVPs"
+
+#: lib/class_eab_admin_tutorial.php:72
+#, fuzzy
+msgid ""
+"Sieh, wer anwesend ist, wer anwesend sein kann und wer nicht, nachdem Du die "
+"Veranstaltung veröffentlicht hast"
+msgstr ""
+"See who is present, who can be present and who cannot be present after you "
+"have published the event"
+
+#: lib/class_eab_admin_tutorial.php:77
+msgid "Veröffentlichen"
+msgstr "Publish"
+
+#: lib/class_eab_admin_tutorial.php:78
+#, fuzzy
+msgid "Jetzt ist es Zeit, die Veranstaltung zu veröffentlichen"
+msgstr "Now it's time to publish the event"
+
+#: lib/class_eab_api.php:53
+#, fuzzy
+msgid "WordPress"
+msgstr "WordPress"
+
+#: lib/class_eab_api.php:69
+#, fuzzy, php-format
+msgctxt ""
+"Unterstützte Registrierungsdienste: Die erste Variable kann ein einzelner "
+"Dienst oder eine durch Kommas getrennte Aufzählung sein"
+msgid "%s oder %s"
+msgstr "%s or %s"
+
+#: lib/class_eab_api.php:78
+#, fuzzy, php-format
+msgctxt "eab"
+msgid ""
+" - oder klicke einfach auf Abbrechen, um Dich mit Deiner %s-ID zu "
+"registrieren"
+msgstr " - or simply click Cancel to register with your %s-ID"
+
+#: lib/class_eab_api.php:83
+#, fuzzy
+msgid "Mit Facebook einloggen"
+msgstr "Log in with Facebook"
+
+#: lib/class_eab_api.php:84
+#, fuzzy
+msgid "Mit Twitter einloggen"
+msgstr "Log in with Twitter"
+
+#: lib/class_eab_api.php:85
+#, fuzzy
+msgid "Mit Google einloggen"
+msgstr "Log in with Google"
+
+#: lib/class_eab_api.php:86
+#, fuzzy, php-format
+msgid "Mit %s einloggen"
+msgstr "Log in with %s"
+
+#: lib/class_eab_api.php:87 lib/class_eab_api.php:102
+#: lib/plugins/eab-events-limit_capacity.php:282
+#: lib/plugins/eab-events-limit_capacity.php:290
+#: lib/plugins/eab-events-rsvp_close_period.php:129
+#: lib/plugins/eab-events-rsvp_close_period.php:137
+msgid "Abbrechen"
+msgstr "Cancel"
+
+#: lib/class_eab_api.php:88
+msgid "Bitte warten..."
+msgstr "Please wait..."
+
+#: lib/class_eab_api.php:90
+msgid "Registrieren"
+msgstr "Register"
+
+#: lib/class_eab_api.php:91
+#, fuzzy, php-format
+msgctxt "Die Variable ist ein zusätzlicher Registrierungsteil"
+msgid "Erstelle einen Benutzernamen, um Dich für %s zu registrieren."
+msgstr "Create a username to register for %s."
+
+#: lib/class_eab_api.php:92
+msgid "Einloggen"
+msgstr "Login"
+
+#: lib/class_eab_api.php:93
+#, fuzzy, php-format
+msgctxt "Die Variable ist ein zusätzlicher Registrierungsteil"
+msgid ""
+"Melde Dich mit Deinen vorhandenen Benutzernamen an, um Dich für %s zu "
+"registrieren."
+msgstr "Log in with your existing username to register for %s."
+
+#: lib/class_eab_api.php:94
+msgid "Nutzername"
+msgstr "User name"
+
+#: lib/class_eab_api.php:95
+msgid "Passwort"
+msgstr "Password"
+
+#: lib/class_eab_api.php:96 lib/plugins/eab-rsvps-rsvp_with_email.php:104
+msgid "Email"
+msgstr "Email"
+
+#: lib/class_eab_api.php:97
+#, fuzzy
+msgid "Schon ein Mitglied? Hier anmelden"
+msgstr "Already a member? Register here"
+
+#: lib/class_eab_api.php:98
+#, fuzzy
+msgid "Klicke hier, um Dich zu registrieren"
+msgstr "Click here to register"
+
+#: lib/class_eab_api.php:99
+msgid "Passwort vergessen"
+msgstr "I forgot my password"
+
+#: lib/class_eab_api.php:101
+#, fuzzy
+msgid "Übermitteln"
+msgstr "Transmit"
+
+#: lib/class_eab_api.php:112
+#, fuzzy
+msgid "Benutzername und Passwort sind erforderlich!"
+msgstr "User name and password are required!"
+
+#: lib/class_eab_api.php:113
+#, fuzzy
+msgid "Ungültiger Benutzername oder Passwort!"
+msgstr "Invalid username or password!"
+
+#: lib/class_eab_api.php:114
+#, fuzzy
+msgid "Benutzername und E-Mail sind erforderlich!"
+msgstr "User name and e-mail are required!"
+
+#: lib/class_eab_api.php:115
+#, fuzzy
+msgid ""
+"Deine E-Mail/Dein Benutzername ist bereits vergeben oder Deine E-Mail ist "
+"ungültig!"
+msgstr "Your e-mail/username is already taken or your e-mail is invalid!"
+
+#: lib/class_eab_api.php:609 lib/contextual_help/class_eab_admin_help.php:201
+#: lib/plugins/eab-import-meetup.php:341
+#, fuzzy
+msgid "API Einstellungen"
+msgstr "API settings"
+
+#: lib/class_eab_api.php:612
+#, fuzzy
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: lib/class_eab_api.php:614
+#, fuzzy, php-format
+msgid ""
+"Gib hier Deine App-ID ein. Wenn Du noch keine Facebook-App hast, musst Du "
+"eine <a target=\"_blank\" href=\"%s\">hier</a> erstellen"
+msgstr ""
+"Enter your app ID here. If you don't have a Facebook app yet, you need to "
+"create one <a target=\"_blank\" href=\"%s\">here</a> "
+
+#: lib/class_eab_api.php:618
+#, fuzzy
+msgid "Meine Seiten laden bereits Skripte von Facebook"
+msgstr "My pages already load scripts from Facebook"
+
+#: lib/class_eab_api.php:621
+#, fuzzy
+msgid ""
+"Aktiviere dieses Kontrollkästchen, wenn Du bereits Facebook-Skripte auf "
+"Deiner WordPress-Site verwendest. (Wenn Du nicht sicher bist, was dies "
+"bedeutet, lasse das Kontrollkästchen deaktiviert.)."
+msgstr ""
+"Check this box if you are already using Facebook scripts on your WordPress "
+"site. (If you're not sure what this means, leave the checkbox unchecked)."
+
+#: lib/class_eab_api.php:625
+#, fuzzy
+msgid "Twitter Consumer Key"
+msgstr "Twitter Consumer Key"
+
+#: lib/class_eab_api.php:627
+#, fuzzy, php-format
+msgid ""
+"Gib hier Deine Twitter App ID-Nummer ein. Wenn Du noch keine Twitter-App "
+"hast, musst Du eine <a target=\"_blank\" href=\"%s\">hier</a> erstellen.<br /"
+">Denke beim Einrichten Deiner App daran, auch die <b>Rückruf-URL</b> auf den "
+"entsprechenden Wert einzustellen (<code>%s</code>)"
+msgstr ""
+"Enter your Twitter app ID number here. If you don't have a Twitter app yet, "
+"you need to create one <a target=\"_blank\" href=\"%s\">here</a>.<br />When "
+"setting up your app, remember to also set the <b>callback URL</b> to the "
+"appropriate value (<code>%s</code>)"
+
+#: lib/class_eab_api.php:631
+#, fuzzy
+msgid "Twitter Consumer Secret"
+msgstr "Twitter Consumer Secret"
+
+#: lib/class_eab_api.php:633
+#, fuzzy
+msgid "Gib hier Dein Twitter App-Geheimnis ein."
+msgstr "Enter your Twitter app secret here."
+
+#: lib/class_eab_api.php:637
+#, fuzzy
+msgid "Google Client ID"
+msgstr "Google Client ID"
+
+#: lib/class_eab_api.php:639
+#, fuzzy, php-format
+msgid ""
+"Gib hier Deine Google App Client-ID ein. Wenn Du noch keine Google App hast, "
+"musst Du eine <a target=\"_blank\" href=\"%s\">hier</a> erstellen"
+msgstr ""
+"Enter your Google App Client ID here. If you don't have a Google App yet, "
+"you need to create one <a target=\"_blank\" href=\"%s\">here</a> "
+
+#: lib/class_eab_api.php:641
+#, fuzzy
+msgid ""
+"Wenn Du dieses Feld leer lässt, wird Google Auth auf die alte OpenID "
+"zurückgesetzt."
+msgstr ""
+"If you leave this field empty, Google Auth will be reset to the old OpenID."
+
+#: lib/class_eab_api.php:646
+#, fuzzy
+msgid "Anmeldeschaltflächen ausblenden"
+msgstr "Hide login buttons"
+
+#: lib/class_eab_api.php:649
+#, fuzzy
+msgid "Facebook-Login-Button ausblenden"
+msgstr "Hide Facebook login button"
+
+#: lib/class_eab_api.php:652
+#, fuzzy
+msgid "Twitter-Login-Button ausblenden"
+msgstr "Hide Twitter login button"
+
+#: lib/class_eab_api.php:655
+#, fuzzy
+msgid "Google-Anmeldeschaltfläche ausblenden"
+msgstr "Hide Google sign-in button"
+
+#: lib/class_eab_api.php:658
+#, fuzzy
+msgid "WordPress-Anmeldeschaltfläche ausblenden"
+msgstr "Hide the WordPress login button"
+
+#: lib/class_eab_api.php:664
+#, fuzzy
+msgid ""
+"Um API-Anmeldungen zu konfigurieren und zu akzeptieren, aktiviere das "
+"Kontrollkästchen \"Facebook- und Twitter-Anmeldung zulassen?\". in Plugin-"
+"Einstellungen."
+msgstr ""
+"To configure and accept API logins, activate the checkbox \"Allow Facebook "
+"and Twitter login?\" in plugin settings."
+
+#: lib/class_eab_calendar_helper.php:157
+#: lib/plugins/eab-events_weekly_calendar.php:343
+msgid "Sonntag"
+msgstr "Sunday"
+
+#: lib/class_eab_calendar_helper.php:158
+#: lib/plugins/eab-events_weekly_calendar.php:344
+msgid "Montag"
+msgstr "Monday"
+
+#: lib/class_eab_calendar_helper.php:159
+#: lib/plugins/eab-events_weekly_calendar.php:345
+msgid "Dienstag"
+msgstr "Tuesday"
+
+#: lib/class_eab_calendar_helper.php:160
+msgid "Mittwoch"
+msgstr "Wednesday"
+
+#: lib/class_eab_calendar_helper.php:161
+#: lib/plugins/eab-events_weekly_calendar.php:347
+msgid "Donnerstag"
+msgstr "Thursday"
+
+#: lib/class_eab_calendar_helper.php:162
+#: lib/plugins/eab-events_weekly_calendar.php:348
+msgid "Freitag"
+msgstr "Friday"
+
+#: lib/class_eab_calendar_helper.php:163
+#: lib/plugins/eab-events_weekly_calendar.php:349
+msgid "Samstag"
+msgstr "Saturday"
+
+#: lib/class_eab_calendar_helper.php:259
+msgid "So"
+msgstr "Sun"
+
+#: lib/class_eab_calendar_helper.php:260
+msgid "Mo"
+msgstr "Mo"
+
+#: lib/class_eab_calendar_helper.php:261
+msgid "Di"
+msgstr "Tue"
+
+#: lib/class_eab_calendar_helper.php:262
+msgid "Mi"
+msgstr "We"
+
+#: lib/class_eab_calendar_helper.php:263
+msgid "Do"
+msgstr "Thu"
+
+#: lib/class_eab_calendar_helper.php:264
+msgid "Fr"
+msgstr "Fr"
+
+#: lib/class_eab_calendar_helper.php:265
+msgid "Sa"
+msgstr "Sa"
+
+#: lib/class_eab_event_model.php:503
+#: lib/plugins/eab-import-facebook_events-main.php:187
+#: lib/plugins/eab-import-google_calendar.php:194
+#: lib/plugins/eab-rsvps-scheduled_rsvp_reset.php:83
+msgid "Tag"
+msgstr "Day"
+
+#: lib/class_eab_event_model.php:504
+msgid "Woche"
+msgstr "Week"
+
+#: lib/class_eab_event_model.php:505
+#, fuzzy
+msgid "Wochenanzahl"
+msgstr "Number of weeks"
+
+#: lib/class_eab_event_model.php:506
+msgid "Wochentag"
+msgstr "Day of the week"
+
+#: lib/class_eab_event_model.php:507
+msgid "Monat"
+msgstr "Month"
+
+#: lib/class_eab_event_model.php:508
+msgid "Jahr"
+msgstr "Year"
+
+#: lib/class_eab_event_model.php:577
+#, fuzzy, php-format
+msgid "Ungültiger Zeitstempel der Intervallstartgrenze: [%s]"
+msgstr "Invalid timestamp of the interval start limit: [%s]"
+
+#: lib/class_eab_event_model.php:582
+#, fuzzy, php-format
+msgid "Ungültiger Zeitstempel für die Endgrenze des Intervalls: [%s]"
+msgstr "Invalid timestamp for the end limit of the interval: [%s]"
+
+#: lib/class_eab_event_model.php:586
+#, fuzzy, php-format
+msgid "Ungültige Endgrenze nach Start: [%s] - [%s]"
+msgstr "Invalid end limit after start: [%s] - [%s]"
+
+#: lib/class_eab_event_model.php:691 lib/class_eab_event_model.php:715
+#: lib/class_eab_event_model.php:815 lib/class_eab_event_model.php:831
+#, fuzzy, php-format
+msgid "Ungültiger %s-Instanzzeitstempel: [%s]"
+msgstr "Invalid %s instance timestamp: [%s]"
+
+#: lib/class_eab_event_model.php:771
+#, fuzzy, php-format
+msgid ""
+"Möglicher DOW-Präzisionsfehler erkannt, %s überschreibt mit %s für Ausdruck "
+"[%s %s diesen Monat], für %s Pivot"
+msgstr ""
+"Possible DOW precision error detected, %s overwrites with %s for expression "
+"[%s %s this month], for %s pivot"
+
+#: lib/class_eab_event_model.php:782
+#, fuzzy, php-format
+msgid "Ungültiger %s-Instanzzeitstempel: [%s %s für %s]"
+msgstr "Invalid %s instance timestamp: [%s %s for %s]"
+
+#: lib/class_eab_exporter.php:11
+#, fuzzy
+msgid "Invalid argument format."
+msgstr "Invalid argument format."
+
+#: lib/class_eab_exporter.php:19
+#, fuzzy
+msgid "Invalid exporter requested."
+msgstr "Invalid exporter requested."
+
+#: lib/class_eab_exporter.php:66
+#, fuzzy
+msgid "Invalid scope"
+msgstr "Invalid scope"
+
+#: lib/class_eab_exporter.php:118 lib/class_eab_exporter.php:173
+#, fuzzy
+msgid "Attending"
+msgstr "Attending"
+
+#: lib/class_eab_exporter.php:119
+#, fuzzy
+msgid "Maybe"
+msgstr "Maybe"
+
+#: lib/class_eab_exporter.php:120 lib/class_eab_exporter.php:166
+msgid "No"
+msgstr "No"
+
+#: lib/class_eab_exporter.php:142 lib/class_eab_exporter.php:146
+#: lib/class_eab_exporter.php:151
+#, fuzzy
+msgid "No event to export"
+msgstr "No event to export"
+
+#: lib/class_eab_exporter.php:161
+#: lib/plugins/eab-rsvps-additional_registration_fields.php:49
+msgid "N/A"
+msgstr "n/a"
+
+#: lib/class_eab_exporter.php:166
+msgid "Yes"
+msgstr "Yes"
+
+#: lib/class_eab_exporter.php:170
+#, fuzzy
+msgid "User ID"
+msgstr "User ID"
+
+#: lib/class_eab_exporter.php:171
+#, fuzzy
+msgid "User Name"
+msgstr "User name"
+
+#: lib/class_eab_exporter.php:172
+#, fuzzy
+msgid "User Email"
+msgstr "User Email"
+
+#: lib/class_eab_exporter.php:174
+#, fuzzy
+msgid "Ticket Count"
+msgstr "Ticket Count"
+
+#: lib/class_eab_exporter.php:175
+#, fuzzy
+msgid "Payment Status"
+msgstr "Payment status"
+
+#: lib/class_eab_shortcodes.php:167
+#, fuzzy
+msgid "Ereigniskarten-Shortcode"
+msgstr "Event card shortcode"
+
+#: lib/class_eab_shortcodes.php:169
+#, fuzzy
+msgid ""
+"Benötigt <a href=\"https://n3rds.work/piestingtal_source/ps-google-maps-"
+"plugin/\" target=\"_blank\">PS Google Maps Plugin</a>."
+msgstr ""
+"Requires <a href=\"https://n3rds.work/piestingtal_source/ps-google-maps-"
+"plugin/\" target=\"_blank\">PS Google Maps plugin</a>."
+
+#: lib/class_eab_shortcodes.php:171 lib/class_eab_shortcodes.php:249
+#: lib/class_eab_shortcodes.php:315
+#, fuzzy
+msgid "Startdatum - Standard jetzt"
+msgstr "Start date - Standard now"
+
+#: lib/class_eab_shortcodes.php:172 lib/class_eab_shortcodes.php:250
+#: lib/class_eab_shortcodes.php:316
+#, fuzzy
+msgid "Ein Datum relativ zum Jetzt oder zum Datum Argument"
+msgstr "A date relative to the now or the date argument"
+
+#: lib/class_eab_shortcodes.php:173 lib/class_eab_shortcodes.php:317
+#: lib/plugins/eab-buddypress-group_events.php:557
+#, fuzzy
+msgid ""
+"Verwende keine monatliche Standardseite - verwende stattdessen die Anzahl "
+"der Wochen"
+msgstr "Don't use a monthly default page - use the number of weeks instead"
+
+#: lib/class_eab_shortcodes.php:174 lib/class_eab_shortcodes.php:318
+#: lib/plugins/eab-buddypress-group_events.php:558
+#, fuzzy
+msgid "Schaue so viele Wochen nach vorne"
+msgstr "Look ahead so many weeks"
+
+#: lib/class_eab_shortcodes.php:175 lib/class_eab_shortcodes.php:251
+#: lib/class_eab_shortcodes.php:319 lib/class_eab_shortcodes.php:382
+#, fuzzy
+msgid "Ereignisse aus dieser Kategorie anzeigen (ID oder Slug)"
+msgstr "Show events from this category (ID or slug)"
+
+#: lib/class_eab_shortcodes.php:176 lib/class_eab_shortcodes.php:252
+#: lib/class_eab_shortcodes.php:320 lib/class_eab_shortcodes.php:383
+#, fuzzy
+msgid ""
+"Ereignisse aus diesen Kategorien anzeigen - Akzeptiert eine durch Kommas "
+"getrennte Liste von IDs"
+msgstr ""
+"Show events from these categories - Accepts a comma-separated list of IDs"
+
+#: lib/class_eab_shortcodes.php:177 lib/class_eab_shortcodes.php:321
+#: lib/class_eab_shortcodes.php:384
+#: lib/plugins/eab-buddypress-group_events.php:560
+#, fuzzy
+msgid "Zeige höchstens so viele Veranstaltungen"
+msgstr "Show at most this many events"
+
+#: lib/class_eab_shortcodes.php:178 lib/class_eab_shortcodes.php:322
+#: lib/class_eab_shortcodes.php:385
+#: lib/plugins/eab-buddypress-group_events.php:561
+#, fuzzy
+msgid "Sortiere Ereignisse in diese Richtung"
+msgstr "Sort events in this direction"
+
+#: lib/class_eab_shortcodes.php:179
+#, fuzzy
+msgid ""
+"Anzeigen von Karten mit mehreren Markierungen zulassen - standardmäßig true."
+msgstr "Allow display of maps with multiple markers - true by default."
+
+#: lib/class_eab_shortcodes.php:180
+#, fuzzy
+msgid "Nur offene Ereignisse anzeigen - standardmäßig true."
+msgstr "Show only open events - true by default."
+
+#: lib/class_eab_shortcodes.php:181
+#, fuzzy
+msgid "Ereignisdatum in der Markierung anzeigen - standardmäßig true."
+msgstr "Show event date in the marker - true by default."
+
+#: lib/class_eab_shortcodes.php:182
+#, fuzzy
+msgid "Ereignis Auszug auf dem Marker  anzeigen."
+msgstr "Display event excerpt on the marker."
+
+#: lib/class_eab_shortcodes.php:183
+#, fuzzy
+msgid "Verwende ein Ereignisbild anstelle von Kartenmarkierungen"
+msgstr "Use an event image instead of card markers"
+
+#: lib/class_eab_shortcodes.php:184 lib/class_eab_shortcodes.php:264
+#: lib/class_eab_shortcodes.php:326 lib/class_eab_shortcodes.php:386
+#: lib/class_eab_shortcodes.php:441
+#: lib/plugins/eab-buddypress-group_events.php:565
+#, fuzzy
+msgid "Subtemplate-Datei oder Vorlagenklassenaufruf"
+msgstr "Subtemplate file or template class call"
+
+#: lib/class_eab_shortcodes.php:185
+#, fuzzy
+msgid "und Google Maps Shortcode-Attribute"
+msgstr "and Google Maps shortcode attributes"
+
+#: lib/class_eab_shortcodes.php:245
+#, fuzzy
+msgid "Kalender-Shortcode"
+msgstr "Calendar shortcode"
+
+#: lib/class_eab_shortcodes.php:248
+#, fuzzy
+msgid ""
+"Abfragetyp (Erfordert <a href=\"https://n3rds.work/piestingtal_source/"
+"multisite-beitragsindex-plugin/\" target=\"_blank\">Multisite Beitragsindex</"
+"a> Plugin"
+msgstr ""
+"Query type (Requires <a href=\"https://n3rds.work/piestingtal_source/"
+"multisite-beitragsindex-plugin/\" target=\"_blank\">multisite contribution "
+"index</a> plugin"
+
+#: lib/class_eab_shortcodes.php:253
+#, fuzzy
+msgid "Navigation anzeigen"
+msgstr "Show navigation"
+
+#: lib/class_eab_shortcodes.php:254
+#, fuzzy
+msgid "Behalte beim Navigieren die Bildlaufposition bei"
+msgstr "Maintain the scroll position when navigating"
+
+#: lib/class_eab_shortcodes.php:255
+#, fuzzy
+msgid ""
+"Das im Navigationstitel verwendete Datumsformat ist standardmäßig \"M Y\""
+msgstr "The date format used in the navigation title is \"M Y\" by default"
+
+#: lib/class_eab_shortcodes.php:256
+#, fuzzy
+msgid ""
+"Das Datumsformat für die kürzere Datumsdarstellung im Navigationstitel ist "
+"standardmäßig \"m-Y\""
+msgstr ""
+"The date format for the shorter date display in the navigation title is \"m-Y"
+"\" by default"
+
+#: lib/class_eab_shortcodes.php:257
+#, fuzzy
+msgid ""
+"Das Datumsformat für die Anzeige der Darstellung langer Datumsangaben "
+"verwendet standardmäßig Deine Datumseinstellungen"
+msgstr ""
+"The date format for displaying long dates uses your date settings by default"
+
+#: lib/class_eab_shortcodes.php:258
+#, fuzzy
+msgid "Kalendertabellenfußzeile anzeigen"
+msgstr "Show calendar table footer"
+
+#: lib/class_eab_shortcodes.php:259 lib/class_eab_shortcodes.php:325
+#: lib/class_eab_shortcodes.php:381 lib/class_eab_shortcodes.php:440
+#: lib/plugins/eab-buddypres-my_events.php:311
+#: lib/plugins/eab-buddypress-group_events.php:564
+#, fuzzy
+msgid "Wende diese CSS-Klasse an"
+msgstr "Apply this CSS class"
+
+#: lib/class_eab_shortcodes.php:260 lib/class_eab_shortcodes.php:327
+#, fuzzy
+msgid "Miniaturansicht des Ereignisses anzeigen"
+msgstr "Show thumbnail of the event"
+
+#: lib/class_eab_shortcodes.php:261
+#, fuzzy
+msgid ""
+"Verwende diese Bild-URL als Miniaturansicht, wenn für das Ereignis kein "
+"geeigneter Bildsatz vorhanden ist"
+msgstr ""
+"Use this image URL as a thumbnail if no suitable image set is available for "
+"the event"
+
+#: lib/class_eab_shortcodes.php:262
+#, fuzzy
+msgid "Ereignisauszug in der Schnellübersicht anzeigen."
+msgstr "Show event excerpt in the quick overview."
+
+#: lib/class_eab_shortcodes.php:263
+#, fuzzy
+msgid ""
+"Bestimme die Länge des Auszugs (Anzahl der Zeichen), die angezeigt werden "
+"sollen."
+msgstr ""
+"Specify the length of the excerpt (number of characters) to be displayed."
+
+#: lib/class_eab_shortcodes.php:265 lib/class_eab_shortcodes.php:329
+#: lib/class_eab_shortcodes.php:387 lib/class_eab_shortcodes.php:442
+#: lib/plugins/eab-buddypress-group_events.php:566
+#, fuzzy
+msgid "Schalte die Verwendung der Standardstile um"
+msgstr "Toggle the use of standard styles"
+
+#: lib/class_eab_shortcodes.php:266 lib/class_eab_shortcodes.php:330
+#: lib/class_eab_shortcodes.php:388
+#: lib/plugins/eab-buddypress-group_events.php:567
+#, fuzzy
+msgid "Schalte die Verwendung von Standardskripten um"
+msgstr "Switch the use of standard scripts"
+
+#: lib/class_eab_shortcodes.php:267
+#, fuzzy
+msgid "Vergangene Ereignisse im Kalender anzeigen"
+msgstr "Show past events in the calendar"
+
+#: lib/class_eab_shortcodes.php:311
+#, fuzzy
+msgid "Archive shortcode"
+msgstr "Archive shortcode"
+
+#: lib/class_eab_shortcodes.php:314
+#, fuzzy
+msgid ""
+"Abfragetyp (Erfordert <a href=\"https://n3rds.work/piestingtal_source/"
+"multisite-beitragsindex-plugin/\" target=\"_blank\">Multisite Beitragsindex</"
+"a> plugin)"
+msgstr ""
+"Query type (Requires <a href=\"https://n3rds.work/piestingtal_source/"
+"multisite-beitragsindex-plugin/\" target=\"_blank\">Multisite contribution "
+"index</a> plugin)"
+
+#: lib/class_eab_shortcodes.php:323
+#, fuzzy
+msgid "Paging zulassen - Verwendung mit dem Argument \"limit\""
+msgstr "Allow paging - use with the \"limit\" argument"
+
+#: lib/class_eab_shortcodes.php:324
+#, fuzzy
+msgid "Beginne auf dieser Seite"
+msgstr "Start on this page"
+
+#: lib/class_eab_shortcodes.php:328
+#, fuzzy
+msgid ""
+"Stelle die Größe der Miniaturansichten ein ('thumbnail', 'large', 'medium-"
+"large', 'medium', 'full' oder '150,150'"
+msgstr ""
+"Set the size of the thumbnails ('thumbnail', 'large', 'medium-large', "
+"'medium', 'full' or '150,150')"
+
+#: lib/class_eab_shortcodes.php:331
+#, fuzzy
+msgid "Ende (YYYY-MM-DD)"
+msgstr "End (YYYY-MM-DD)"
+
+#: lib/class_eab_shortcodes.php:332
+#, fuzzy
+msgid "Schalte die Anzeige nur der Ereignisse der aktuellen Tage um"
+msgstr "Toggle the display of only the events of the current days"
+
+#: lib/class_eab_shortcodes.php:378
+#, fuzzy
+msgid "Shortcode für abgelaufene Ereignisse"
+msgstr "Shortcode for expired events"
+
+#: lib/class_eab_shortcodes.php:435
+#, fuzzy
+msgid "Einzelereignis-Shortcode"
+msgstr "Single event short code"
+
+#: lib/class_eab_shortcodes.php:438
+#, fuzzy
+msgid "Ereignis-ID, die angezeigt werden soll"
+msgstr "Event ID to be displayed"
+
+#: lib/class_eab_shortcodes.php:439
+#, fuzzy
+msgid "Event von diesem Slug anzeigen"
+msgstr "Show event from this slug"
+
+#: lib/class_eab_shortcodes.php:443
+#, fuzzy
+msgid "Schalteie die Verwendung von Standardskripten um"
+msgstr "Toggle the use of standard scripts"
+
+#: lib/class_eab_template.php:75
+#, fuzzy
+msgid "Du hast bereits für diese Veranstaltung bezahlt"
+msgstr "You have already paid for this event"
+
+#: lib/class_eab_template.php:79
+#, fuzzy
+msgid ""
+"Deine Zahlung wird bearbeitet. Dies kann einige Minuten dauern, bis es hier "
+"angezeigt wird."
+msgstr ""
+"Your payment is being processed. This may take a few minutes before it is "
+"displayed here."
+
+#: lib/class_eab_template.php:126
+#, fuzzy
+msgid "Reaktionen anzeigen"
+msgstr "Show reactions"
+
+#: lib/class_eab_template.php:130
+#, fuzzy
+msgid "Reaktionen ausblenden"
+msgstr "Hide reactions"
+
+#: lib/class_eab_template.php:167 lib/class_eab_template.php:209
+#: lib/class_eab_template.php:678 lib/plugins/eab-buddypres-my_events.php:68
+#: lib/plugins/eab-buddypres-my_events.php:126
+#: lib/plugins/eab-buddypres-my_events.php:281
+msgid "Teilnahme"
+msgstr "Participation"
+
+#: lib/class_eab_template.php:168 lib/class_eab_template.php:534
+#: lib/class_eab_template.php:559 lib/class_eab_template.php:679
+#: lib/plugins/eab-buddypres-my_events.php:75
+#: lib/plugins/eab-email-enewsletter_integration.php:300
+#, fuzzy
+msgid "Interresiert"
+msgstr "Interested"
+
+#: lib/class_eab_template.php:169 lib/class_eab_template.php:211
+#: lib/class_eab_template.php:528 lib/class_eab_template.php:553
+#: lib/class_eab_template.php:680
+msgid "Absage"
+msgstr "Refusal"
+
+#: lib/class_eab_template.php:210
+#, fuzzy
+msgid "Möglich"
+msgstr "Possible"
+
+#: lib/class_eab_template.php:265
+#, fuzzy
+msgid "<h3>Benutzer hinzufügen</h3>"
+msgstr "<h3>Add user</h3>"
+
+#: lib/class_eab_template.php:267
+#, fuzzy
+msgid "Benutzer Email"
+msgstr "User Email"
+
+#: lib/class_eab_template.php:275
+#: lib/plugins/eab-rsvps-additional_registration_fields.php:230
+msgid "Hinzufügen"
+msgstr "Add"
+
+#: lib/class_eab_template.php:323
+#: lib/plugins/eab-events-manual-payments.php:269
+msgid "Bezahlt"
+msgstr "Paid"
+
+#: lib/class_eab_template.php:326
+#, fuzzy, php-format
+msgid "(%s Tickets)"
+msgstr "(%s tickets)"
+
+#: lib/class_eab_template.php:329
+msgid "Nicht bezahlt"
+msgstr "Not paid"
+
+#: lib/class_eab_template.php:337
+#, fuzzy
+msgid "Teilnahme abbrechen"
+msgstr "Cancel participation"
+
+#: lib/class_eab_template.php:341
+#, fuzzy
+msgid "Anwesenheit vollständig löschen"
+msgstr "Delete presence completely"
+
+#: lib/class_eab_template.php:366
+#, fuzzy, php-format
+msgid "Visit %s&#8217;s website"
+msgstr "Visit %s's website"
+
+#: lib/class_eab_template.php:425
+#, fuzzy, php-format
+msgid "Ich möchte %s Ticket(s) kaufen"
+msgstr "I would like to buy %s ticket(s)"
+
+#: lib/class_eab_template.php:540 lib/class_eab_template.php:565
+#, fuzzy
+msgid "Ich nehme teil"
+msgstr "I take part"
+
+#: lib/class_eab_template.php:627
+#, fuzzy, php-format
+msgid ""
+"Am <span class=\"psourceevents-date_format-start\"><var class=\"eab-"
+"date_format-date\">%s</var></span>"
+msgstr ""
+"On <span class=\"psourceevents-date_format-start\"><var class=\"eab-"
+"date_format-date\">%s</var></span>"
+
+#: lib/class_eab_template.php:628
+#, fuzzy, php-format
+msgid ""
+"Am <var class=\"eab-date_format-date\">%s</var> <span class=\"psourceevents-"
+"date_format-start\">von <var class=\"eab-date_format-time\">%s</var></span>"
+msgstr ""
+"On <var class=\"eab-date_format-date\">%s</var> <span class=\"psourceevents-"
+"date_format-start\">from <var class=\"eab-date_format-time\">%s</var></span>"
+
+#: lib/class_eab_template.php:631 lib/class_eab_template.php:632
+#: lib/class_eab_template.php:651
+#, fuzzy, php-format
+msgid "<span class=\"psourceevents-date_format-end\">bis %s</span><br />"
+msgstr "<span class=\"psourceevents-date_format-end\">to %s</span><br />"
+
+#: lib/class_eab_template.php:639 lib/class_eab_template.php:645
+#, fuzzy, php-format
+msgid ""
+"Findet statt am <span class=\"psourceevents-date_format-start\"><var class="
+"\"eab-date_format-date\">%s</var></span>"
+msgstr ""
+"Takes place on <span class=\"psourceevents-date_format-start\"><var class="
+"\"eab-date_format-date\">%s</var></span>"
+
+#: lib/class_eab_template.php:640 lib/class_eab_template.php:646
+#, fuzzy, php-format
+msgid ""
+"Findet statt am <var class=\"eab-date_format-date\">%s</var> <span class="
+"\"psourceevents-date_format-start\">von <var class=\"eab-date_format-time\">"
+"%s</var></span>"
+msgstr ""
+"Takes place on <var class=\"eab-date_format-date\">%s</var> <span class="
+"\"psourceevents-date_format-start\">from <var class=\"eab-date_format-time\">"
+"%s</var></span>"
+
+#: lib/class_eab_template.php:709
+#, fuzzy
+msgid ""
+"Ausgezeichnet! Wir haben Dich als Teilnehmer markiert und wir sehen uns dort!"
+msgstr "Excellent! We've marked you as a participant and we'll see you there!"
+
+#: lib/class_eab_template.php:710
+#, fuzzy
+msgid "Vielen Dank, dass Du uns informiert hast. Hoffentlich schaffst Du es!"
+msgstr ""
+"Thank you very much for keeping us informed. Hopefully you will make it!"
+
+#: lib/class_eab_template.php:711
+#, fuzzy
+msgid "Das ist schade, dass du es nicht teilnehmen wirst"
+msgstr "That's a shame that you won't be taking part"
+
+#: lib/class_eab_template.php:881
+msgid "boolean"
+msgstr "boolean"
+
+#: lib/class_eab_template.php:882
+#, fuzzy
+msgid "\"yes\" oder \"no\""
+msgstr "\"yes\" or \"no\""
+
+#: lib/class_eab_template.php:883
+#, fuzzy, php-format
+msgid "%s=\"yes\""
+msgstr "%s=\"yes\""
+
+#: lib/class_eab_template.php:886
+#, fuzzy
+msgid "integer"
+msgstr "with integrity"
+
+#: lib/class_eab_template.php:888
+#, fuzzy, php-format
+msgid "%s=\"326\""
+msgstr "%s=\"326\""
+
+#: lib/class_eab_template.php:891
+msgid "string"
+msgstr "string"
+
+#: lib/class_eab_template.php:892
+#, fuzzy
+msgid "\"mystring\""
+msgstr "\"mystring\""
+
+#: lib/class_eab_template.php:893
+#, fuzzy, php-format
+msgid "%s=\"mystring\""
+msgstr "%s=\"mystring\""
+
+#: lib/class_eab_template.php:896
+msgid "Datum"
+msgstr "Date"
+
+#: lib/class_eab_template.php:897
+#, fuzzy
+msgid "Zeichenfolge für das Datumsformat"
+msgstr "String for the date format"
+
+#: lib/class_eab_template.php:898
+#, fuzzy, php-format
+msgid "%s=\"2011-11-18\""
+msgstr "%s=\"2011-11-18\""
+
+#: lib/class_eab_template.php:901
+msgid "Datumsformat"
+msgstr "Date format"
+
+#: lib/class_eab_template.php:902
+#, fuzzy
+msgid "Formatstring für Datumsangaben"
+msgstr "Format string for dates"
+
+#: lib/class_eab_template.php:903
+#, fuzzy, php-format
+msgid "%s=\"Y-m-d\""
+msgstr "%s=\"Y-m-d\""
+
+#: lib/class_eab_template.php:906
+#, fuzzy, php-format
+msgid "<a href=\"%s\" target=\"_blank\">strtotime</a>-compatible string"
+msgstr "<a href=\"%s\" target=\"_blank\">strtotime-compatible</a> string"
+
+#: lib/class_eab_template.php:907
+#, fuzzy
+msgid "strtotime-kompatibler Ausdruck"
+msgstr "strtotime-compatible expression"
+
+#: lib/class_eab_template.php:911
+#, fuzzy
+msgid "string oder integer"
+msgstr "string or integer"
+
+#: lib/class_eab_template.php:912
+#, fuzzy
+msgid "\"some_text\" oder \"212\""
+msgstr "\"some_text\" or \"212\""
+
+#: lib/class_eab_template.php:913
+#, fuzzy, php-format
+msgid "%s=\"some_text\""
+msgstr "%s=\"some_text\""
+
+#: lib/class_eab_template.php:916
+#, fuzzy
+msgid "Schlüsselwort bestellen"
+msgstr "Order keyword"
+
+#: lib/class_eab_template.php:917
+#, fuzzy
+msgid "\"ASC\" oder \"DESC\""
+msgstr "\"ASC\" or \"DESC\""
+
+#: lib/class_eab_template.php:918
+#, fuzzy, php-format
+msgid "%s=\"ASC\""
+msgstr "%s=\"ASC\""
+
+#: lib/class_eab_template.php:921
+#, fuzzy
+msgid "Liste von durch Kommas getrennten IDs"
+msgstr "List of IDs separated by commas"
+
+#: lib/class_eab_template.php:922
+#, fuzzy
+msgid "\"52,26,18\""
+msgstr "\"52,26,18\""
+
+#: lib/class_eab_template.php:923
+#, fuzzy, php-format
+msgid "%s=\"52,26,18\""
+msgstr "%s=\"52,26,18\""
+
+#: lib/class_eab_template.php:926
+#, fuzzy
+msgid "Liste von durch Kommas getrennten Zeichenfolgen"
+msgstr "List of strings separated by commas"
+
+#: lib/class_eab_template.php:927
+#, fuzzy
+msgid "\"foo,bar,baz\""
+msgstr "\"foo,bar,baz\""
+
+#: lib/class_eab_template.php:928
+#, fuzzy, php-format
+msgid "%s=\"foo,bar,baz\""
+msgstr "%s=\"foo,bar,baz\""
+
+#: lib/class_eab_template.php:931
+#, fuzzy
+msgid "gültige URL"
+msgstr "valid URL"
+
+#: lib/class_eab_template.php:932
+#, fuzzy
+msgid "\"http://example.com/something\""
+msgstr "\"http://example.com/something\""
+
+#: lib/class_eab_template.php:933
+#, fuzzy, php-format
+msgid "%s=\"http://example.com/something\""
+msgstr "%s=\"http://example.com/something\""
+
+#: lib/class_eab_template.php:941
+#, fuzzy, php-format
+msgid "%s, z.B. [%s ... %s]"
+msgstr "%s, e.g. [%s ... %s]"
+
+#: lib/class_wd_help_tooltips.php:327
+#, fuzzy
+msgid "Help"
+msgstr "Help"
+
+#: lib/contextual_help/class_eab_admin_help.php:37
+#, fuzzy
+msgid "PS-Events"
+msgstr "PS events"
+
+#: lib/contextual_help/class_eab_admin_help.php:39
+#, fuzzy
+msgid ""
+"PS-Events fügt Deiner Webseite oder Deiner Multisite ein mächtiges Events & "
+"Bookings System hinzu.."
+msgstr ""
+"PS-Events adds a powerful events & bookings system to your website or "
+"multisite."
+
+#: lib/contextual_help/class_eab_admin_help.php:42
+#, fuzzy
+msgid "Projektseite"
+msgstr "Project page"
+
+#: lib/contextual_help/class_eab_admin_help.php:43
+#, fuzzy
+msgid "Installations- und Anleitungsseite"
+msgstr "Installation and instructions page"
+
+#: lib/contextual_help/class_eab_admin_help.php:44
+#, fuzzy
+msgid "Hilfeforum"
+msgstr "Help forum"
+
+#: lib/contextual_help/class_eab_admin_help.php:82
+#, fuzzy
+msgid "PS-Events Shortcodes"
+msgstr "PS Events shortcodes"
+
+#: lib/contextual_help/class_eab_admin_help.php:103
+#: lib/contextual_help/class_eab_admin_help.php:137
+#: lib/contextual_help/class_eab_admin_help.php:181
+msgid "Intro"
+msgstr "Intro"
+
+#: lib/contextual_help/class_eab_admin_help.php:106
+#, fuzzy
+msgid "Hier kannst Du alle Deine Ereignisse sehen."
+msgstr "Here you can see all your events."
+
+#: lib/contextual_help/class_eab_admin_help.php:112
+#: lib/contextual_help/class_eab_admin_help.php:161
+#: lib/contextual_help/class_eab_admin_help.php:229
+#: lib/contextual_help/class_eab_admin_help.php:258
+#: lib/pointers-tutorial/pointer-tutorials.php:133
+#, fuzzy
+msgid "Tutorial"
+msgstr "Tutorial"
+
+#: lib/contextual_help/class_eab_admin_help.php:115
+#: lib/contextual_help/class_eab_admin_help.php:164
+#: lib/contextual_help/class_eab_admin_help.php:232
+#: lib/contextual_help/class_eab_admin_help.php:261
+#, fuzzy
+msgid "Tutorial-Dialoge führen Dich durch die wichtigen Punkte."
+msgstr "Tutorial dialogs guide you through the important points."
+
+#: lib/contextual_help/class_eab_admin_help.php:117
+#: lib/contextual_help/class_eab_admin_help.php:166
+#: lib/contextual_help/class_eab_admin_help.php:234
+#: lib/contextual_help/class_eab_admin_help.php:263
+#, fuzzy
+msgid "Starte das Tutorial neu"
+msgstr "Restart the tutorial"
+
+#: lib/contextual_help/class_eab_admin_help.php:129
+#, fuzzy
+msgid ""
+"Wenn das <href=\"https://n3rds.work/piestingtal-source-project/ps-gmaps/"
+"\">PS-Gmaps</a> Plugin installiert ist, kannst Du die vollständige "
+"Integration von Google Maps in Deinen Veranstaltungen verwenden"
+msgstr ""
+"If the <href=\"https://n3rds.work/piestingtal-source-project/ps-gmaps/\">PS-"
+"Gmaps</a> plugin is installed, you can use the full integration of Google "
+"Maps in your events"
+
+#: lib/contextual_help/class_eab_admin_help.php:130
+#, fuzzy
+msgid ""
+"Dein Standort wird automatisch auf einer Google Map zugeordnet. Du kannst "
+"auch selbst eine Karte erstellen und diese mithilfe des Globussymbols über "
+"dem Feld mit Ihrem Ereignis verknüpfen"
+msgstr ""
+"Your location is automatically mapped on a Google Map. You can also create a "
+"map yourself and link it to your event using the globe icon above the field"
+
+#: lib/contextual_help/class_eab_admin_help.php:140
+#, fuzzy
+msgid "Hier erstellst und bearbeitest Du Deine Ereignisse"
+msgstr "This is where you create and edit your events"
+
+#: lib/contextual_help/class_eab_admin_help.php:150
+#, fuzzy
+msgid "In dieses Feld kannst Du Deine Ereignisadresse eingeben."
+msgstr "You can enter your event address in this field."
+
+#: lib/contextual_help/class_eab_admin_help.php:153
+#, fuzzy
+msgid "Veranstaltungszeiten und -daten"
+msgstr "Event times and dates"
+
+#: lib/contextual_help/class_eab_admin_help.php:155
+#, fuzzy
+msgid ""
+"Du kannst Deiner Veranstaltung mehrere Start- und Endzeiten hinzufügen. Du "
+"kannst so viele hinzufügen, wie Du möchtest."
+msgstr ""
+"You can add multiple start and end times to your event. You can add as many "
+"as you like."
+
+#: lib/contextual_help/class_eab_admin_help.php:184
+#, fuzzy
+msgid "Hier richtest Du dein Plugin ein."
+msgstr "You can set up your plugin here."
+
+#: lib/contextual_help/class_eab_admin_help.php:190
+#, fuzzy
+msgid "Darstellungseinstellungen"
+msgstr "Display settings"
+
+#: lib/contextual_help/class_eab_admin_help.php:192
+#, fuzzy
+msgid "Lege fest, wie Deine Veranstaltungen präsentiert werden."
+msgstr "Determine how your events are presented."
+
+#: lib/contextual_help/class_eab_admin_help.php:193
+#, fuzzy
+msgid ""
+"Wenn Du die Option \"Standarddarstellung überschreiben\" aktivierst, kannst "
+"Du zwischen verschiedenen vordefinierten Vorlagen auswählen, um die "
+"Darstellung Deiner Ereignisse zu ändern."
+msgstr ""
+"If you activate the \"Override default display\" option, you can choose "
+"between various predefined templates to change the display of your events."
+
+#: lib/contextual_help/class_eab_admin_help.php:194
+#, fuzzy
+msgid ""
+"Um zur Standardausgabe des Plugins zurückzukehren, deaktiviere jederzeit die "
+"Option \"Standarddarstellung überschreiben\""
+msgstr ""
+"To return to the default output of the plugin, deactivate the \"Override "
+"default display\" option at any time"
+
+#: lib/contextual_help/class_eab_admin_help.php:195
+#, fuzzy
+msgid ""
+"Wenn Du die Vorlagen weiter anpassen möchtest, kannst Du einen gewünschten "
+"Satz aus dem Plugin-Verzeichnis in Dein aktuelles Themenverzeichnis kopieren "
+"und bearbeiten."
+msgstr ""
+"If you want to customize the templates further, you can copy a desired set "
+"from the plugin directory into your current theme directory and edit it."
+
+#: lib/contextual_help/class_eab_admin_help.php:196
+#, fuzzy
+msgid ""
+"<b>Hinweis:</b> Diese Einstellungen sind nicht verfügbar, wenn Du die "
+"Vorlagen zur Anpassung in Dein Themenverzeichnis kopierst"
+msgstr ""
+"<b>Note:</b> These settings are not available if you copy the templates to "
+"your theme directory for customization"
+
+#: lib/contextual_help/class_eab_admin_help.php:204
+#, fuzzy
+msgid ""
+"Dieser Abschnitt wird verfügbar, wenn Du Anmeldungen mit Twitter und "
+"Facebook zulässt, indem Du das entsprechende Kontrollkästchen in den Plugin-"
+"Einstellungen aktivierst."
+msgstr ""
+"This section becomes available if you allow logins with Twitter and Facebook "
+"by activating the corresponding checkbox in the plugin settings."
+
+#: lib/contextual_help/class_eab_admin_help.php:207
+#, fuzzy
+msgid "Facebook API Einstellungen"
+msgstr "Facebook API settings"
+
+#: lib/contextual_help/class_eab_admin_help.php:208
+#, fuzzy
+msgid ""
+"<p>Bevor wir beginnen, musst Du <a target=\"_blank\" href=\"http://www."
+"facebook.com/developers/createapp.php\">eine Facebook-Anwendung</a> "
+"erstellen.</p><p>Befolgen dazu diese Schritte:</p><ol><li><a target=\"_blank"
+"\" href=\"http://www.facebook.com/developers/createapp.php\">Erstelle Deine "
+"Anwendung</a></li><li>Danach gehe zur <a target=\"_blank\" href=\"http://www."
+"facebook.com/developers/apps.php\">Facebook-Anwendungslistenseite</a> und "
+"wähle Deine neu erstellte Anwendung aus.</li><li>Kopiere den Wert im "
+"<strong>App ID</strong>/<strong>API Key</strong> Feld, und gib ihn in das "
+"Feld \"Facebook App ID\" ein.</li></ol>"
+msgstr ""
+"<p>Before we start, you need to create <a target=\"_blank\" href=\"http://"
+"www.facebook.com/developers/createapp.php\">a Facebook application</a>.</"
+"p><p>Follow these steps to do so:</p><ol><li><a target=\"_blank\" href="
+"\"http://www.facebook.com/developers/createapp.php\">Create your "
+"application</a></li><li>Then go to the <a target=\"_blank\" href=\"http://"
+"www.facebook.com/developers/apps.php\">Facebook app list page</a> and select "
+"your newly created app.</li><li>Copy the value in the <strong>App ID/API</"
+"strong><strong>Key</strong> field and enter it in the \"Facebook App ID\" "
+"field.</li></ol>"
+
+#: lib/contextual_help/class_eab_admin_help.php:216
+#, fuzzy
+msgid "Twitter API Einstellungen"
+msgstr "Twitter API settings"
+
+#: lib/contextual_help/class_eab_admin_help.php:217
+#, fuzzy, php-format
+msgid ""
+"<p>Zuerst wird eine Twitter-Anwendung benötigt <a target=\"_blank\" href="
+"\"https://dev.twitter.com/apps/new\">Erstelle eine Twitter-Anwendung</a>.</"
+"p><p>Befolgen dazu diese Schritte:</p><ol><li><a target=\"_blank\" href="
+"\"https://dev.twitter.com/apps/new\">Erstelle Deine Anwendung</a></"
+"li><li>Suche nach dem <strong>Callback URL</strong> Feld und gib Deine "
+"Callback-URL in dieses Feld ein: <code>%s</code></li><li>Danach gehe zur <a "
+"target=\"_blank\" href=\"https://dev.twitter.com/apps\">Seite mit der "
+"Twitter-Anwendungsliste</a> und wähle Deine neu erstellte Anwendung aus.</"
+"li><li>Kopiere die Werte aus den folgenden Feldern: <strong>Consumer Key</"
+"strong> und <strong>Consumer Secret </strong> und gib diese in die Plugin-"
+"Einstellungen ein.</li></ol>"
+msgstr ""
+"<p>First you need a Twitter application <a target=\"_blank\" href=\"https://"
+"dev.twitter.com/apps/new\">Create a Twitter application</a>.</p><p>To do "
+"this, follow these steps:</p><ol><li><a target=\"_blank\" href=\"https://dev."
+"twitter.com/apps/new\">Create your application</a></li><li>Search for the "
+"<strong>Callback URL</strong> field and enter your callback URL in this "
+"field: <code>%s</code></li><li>Then go to <a target=\"_blank\" href="
+"\"https://dev.twitter.com/apps\">the Twitter application list page</a> and "
+"select your newly created application.</li><li>Copy the values from the "
+"following fields: <strong>Consumer Key</strong> and <strong>Consumer Secret "
+"</strong> and enter them in the plugin settings.</li></ol>"
+
+#: lib/contextual_help/class_eab_admin_help.php:249
+msgid "Willkommen"
+msgstr "Welcome"
+
+#: lib/contextual_help/class_eab_admin_help.php:252
+#, fuzzy
+msgid ""
+"Willkommen bei Events! Diese Seite führt Dich durch die Einrichtung Deines "
+"Plugins und die Veröffentlichung Deiner ersten Ereignisse."
+msgstr ""
+"Welcome to Events! This page will guide you through setting up your plugin "
+"and publishing your first events."
+
+#: lib/plugins/eab-buddypres-activity.php:57
+#, fuzzy, php-format
+msgid "%s hat eine Veranstaltung erstellt"
+msgstr "%s has created an event"
+
+#: lib/plugins/eab-buddypres-activity.php:62
+#, fuzzy, php-format
+msgid "%s hat eine Veranstaltung in <a href=\"%s\">%s</a> erstellt"
+msgstr "%s has organized an event in <a href=\"%s\">%s</a> created"
+
+#: lib/plugins/eab-buddypres-activity.php:64
+#, fuzzy, php-format
+msgid "%s hat eine öffentliche Veranstaltung erstellt"
+msgstr "%s has created a public event"
+
+#: lib/plugins/eab-buddypres-activity.php:134
+#, fuzzy, php-format
+msgid "%s wird an <a href=\"%s\">%s</a> teilnehmen"
+msgstr "%s will participate in <a href=\"%s\">%s</a> participate"
+
+#: lib/plugins/eab-buddypres-activity.php:137
+#, fuzzy, php-format
+msgid "%s wird möglicherweise an <a href=\"%s\">%s</a> teilnehmen"
+msgstr "%s will possibly participate in <a href=\"%s\">%s</a> participate"
+
+#: lib/plugins/eab-buddypres-activity.php:140
+#, fuzzy, php-format
+msgid "%s muss leider seine Teilnahme an <a href=\"%s\">%s</a> absagen. :("
+msgstr ""
+"%s unfortunately has to cancel his participation in <a href=\"%s\">%s</a> "
+"cancel. :("
+
+#: lib/plugins/eab-buddypres-activity.php:194
+#, fuzzy
+msgid ""
+"BuddyPress muss installiert und aktiviert sein, damit die Erweiterung für "
+"automatische Aktivitätsaktualisierungen funktioniert"
+msgstr ""
+"BuddyPress must be installed and activated for the extension for automatic "
+"activity updates to work"
+
+#: lib/plugins/eab-buddypres-activity.php:196
+#, fuzzy
+msgid ""
+"Die BuddyPress-Aktivitätskomponente muss aktiviert sein, damit die "
+"Erweiterung für die automatische Aktualisierung von Aktivitäten funktioniert"
+msgstr ""
+"The BuddyPress activity component must be activated for the automatic "
+"activity update extension to work"
+
+#: lib/plugins/eab-buddypres-activity.php:224
+#, fuzzy
+msgid "Einstellungen für die automatische Aktivitätsaktualisierung"
+msgstr "Settings for automatic activity update"
+
+#: lib/plugins/eab-buddypres-activity.php:227
+#, fuzzy
+msgid ""
+"Aktivitäts-Feed automatisch aktualisieren, wenn ein Ereignis erstellt wird:"
+msgstr "Automatically update activity feed when an event is created:"
+
+#: lib/plugins/eab-buddypres-activity.php:228
+#, fuzzy
+msgid ""
+"Eine Aktivitätsaktualisierung, die jedes Mal veröffentlicht wird, wenn ein "
+"Ereignis erstellt wird."
+msgstr "An activity update that is published each time an event is created."
+
+#: lib/plugins/eab-buddypres-activity.php:231
+#, fuzzy
+msgid "Jedes Ereignis"
+msgstr "Each event"
+
+#: lib/plugins/eab-buddypres-activity.php:235
+#: lib/plugins/eab-buddypress-group_events.php:209
+#, fuzzy
+msgid "Gruppenveranstaltung"
+msgstr "Group event"
+
+#: lib/plugins/eab-buddypres-activity.php:240
+#, fuzzy
+msgid "Öffentliche Ankündigungsveranstaltung"
+msgstr "Public announcement event"
+
+#: lib/plugins/eab-buddypres-activity.php:244
+#, fuzzy
+msgid "Aktivität nicht aktualisieren"
+msgstr "Do not update activity"
+
+#: lib/plugins/eab-buddypres-activity.php:248
+#, fuzzy
+msgid ""
+"Aktualisiert bei der Erstellung von Gruppenereignissen immer die "
+"entsprechenden Gruppenfeeds"
+msgstr ""
+"Always updates the corresponding group feeds when creating group events"
+
+#: lib/plugins/eab-buddypres-activity.php:251
+#, fuzzy
+msgid "Aktivitäts-Feed beim Benutzer automatisch aktualisieren:"
+msgstr "Automatically update the user's activity feed:"
+
+#: lib/plugins/eab-buddypres-activity.php:252
+#, fuzzy
+msgid ""
+"Ein Aktivitätsupdate, das jedes Mal veröffentlicht wird, wenn ein Benutzer "
+"reagiert."
+msgstr "An activity update that is published every time a user reacts."
+
+#: lib/plugins/eab-buddypres-activity.php:255
+#, fuzzy
+msgid "... kommt"
+msgstr "... comes"
+
+#: lib/plugins/eab-buddypres-activity.php:258
+#, fuzzy
+msgid "... hat Interesse"
+msgstr "... is interested"
+
+#: lib/plugins/eab-buddypres-activity.php:261
+#, fuzzy
+msgid "... kommt nicht"
+msgstr "... does not come"
+
+#: lib/plugins/eab-buddypres-activity.php:266
+#, fuzzy
+msgid "Aktualisiert den Gruppenaktivitäts-Feed"
+msgstr "Updates the group activity feed"
+
+#: lib/plugins/eab-buddypres-my_events.php:39
+#, fuzzy
+msgid ""
+"Du musst BuddyPress installiert und aktiviert haben, damit die Erweiterung "
+"<strong>Meine Ereignisse</strong> funktioniert"
+msgstr ""
+"You must have BuddyPress installed and activated for the <strong>My Events</"
+"strong> extension to work"
+
+#: lib/plugins/eab-buddypres-my_events.php:60
+#, fuzzy
+msgid "Organisiert"
+msgstr "Organized"
+
+#: lib/plugins/eab-buddypres-my_events.php:82
+#: lib/plugins/eab-events-front_page_editing.php:468
+msgid "Abgesagt"
+msgstr "Canceled"
+
+#: lib/plugins/eab-buddypres-my_events.php:123
+#, fuzzy
+msgid "Organisierte Ereignisse"
+msgstr "Organized events"
+
+#: lib/plugins/eab-buddypres-my_events.php:129
+#: lib/plugins/eab-buddypres-my_events.php:288
+#, fuzzy
+msgid "Mögliche Teilnahme"
+msgstr "Possible participation"
+
+#: lib/plugins/eab-buddypres-my_events.php:132
+#: lib/plugins/eab-buddypres-my_events.php:295
+#, fuzzy
+msgid "Abgesagte Teilnahme"
+msgstr "Canceled participation"
+
+#: lib/plugins/eab-buddypres-my_events.php:181
+#, fuzzy
+msgid "Veranstaltung nicht bezahlt"
+msgstr "Event not paid for"
+
+#: lib/plugins/eab-buddypres-my_events.php:201
+#, fuzzy
+msgid "Mach nichts Besonderes"
+msgstr "Don't do anything special"
+
+#: lib/plugins/eab-buddypres-my_events.php:202
+#, fuzzy
+msgid "Verberge"
+msgstr "Hide"
+
+#: lib/plugins/eab-buddypres-my_events.php:203
+#, fuzzy
+msgid "Nörgelhinweis anzeigen"
+msgstr "Show nagging note"
+
+#: lib/plugins/eab-buddypres-my_events.php:207
+#, fuzzy
+msgid "Meine Ereignisse Einstellungen"
+msgstr "My events settings"
+
+#: lib/plugins/eab-buddypres-my_events.php:210
+#, fuzzy
+msgid "Nicht bezahlte Premium-Events mit positiven RSPVs"
+msgstr "Unpaid premium events with positive RSPVs"
+
+#: lib/plugins/eab-buddypres-my_events.php:216
+#, fuzzy
+msgid ""
+"Umgang mit nicht bezahlten Premium-Ereignissen in der Anzeige der "
+"Benutzerereignisliste."
+msgstr "Dealing with unpaid premium events in the user event list display."
+
+#: lib/plugins/eab-buddypres-my_events.php:274
+#, fuzzy
+msgid "Organisierte Veranstaltungen"
+msgstr "Organized events"
+
+#: lib/plugins/eab-buddypres-my_events.php:307
+#, fuzzy
+msgid "Mein Veranstaltungsarchiv"
+msgstr "My event archive"
+
+#: lib/plugins/eab-buddypres-my_events.php:310
+#, fuzzy
+msgid "Benutzer-ID oder Schlüsselwort \"aktuell\"."
+msgstr "User ID or keyword \"current\"."
+
+#: lib/plugins/eab-buddypres-my_events.php:312
+#, fuzzy
+msgid "Abschnittstitel anzeigen"
+msgstr "Show section title"
+
+#: lib/plugins/eab-buddypres-my_events.php:313
+#, fuzzy
+msgid ""
+"Zeigen Sie diese Abschnitte. Mögliche Werte: \"Organisiert\", \"Ja\", "
+"\"Möglich\", \"Nein\"."
+msgstr ""
+"Show these sections. Possible values: \"Organized\", \"Yes\", \"Possible\", "
+"\"No\"."
+
+#: lib/plugins/eab-buddypress-group_events.php:86
+#, fuzzy
+msgid "BuddyPress-Gruppe anzeigen"
+msgstr "Show BuddyPress group"
+
+#: lib/plugins/eab-buddypress-group_events.php:130
+#, fuzzy
+msgid ""
+"BuddyPress muss installiert und aktiviert sein, damit die Gruppenereignis-"
+"Erweiterung funktioniert"
+msgstr ""
+"BuddyPress must be installed and activated for the group event extension to "
+"work"
+
+#: lib/plugins/eab-buddypress-group_events.php:135
+#, fuzzy
+msgid ""
+"BuddyPress Groups-Komponente aktivieren, damit die Erweiterung für "
+"Gruppenereignisse funktioniert"
+msgstr ""
+"Enable BuddyPress Groups component to make the extension work for group "
+"events"
+
+#: lib/plugins/eab-buddypress-group_events.php:150
+#, fuzzy
+msgid "Einstellungen für Gruppenereignisse"
+msgstr "Settings for group events"
+
+#: lib/plugins/eab-buddypress-group_events.php:153
+#, fuzzy
+msgid "Automatisch der Gruppe beitreten bei Veranstaltungs-Anmeldungen"
+msgstr "Automatically join the group for event registrations"
+
+#: lib/plugins/eab-buddypress-group_events.php:155
+#, fuzzy
+msgid ""
+"Wenn sich Deine Benutzer positiv zu Einem Gruppenereignis melden, werden sie "
+"auch automatisch der Gruppe beitreten, zu der das Ereignis gehört."
+msgstr ""
+"If your users respond positively to a group event, they will automatically "
+"join the group to which the event belongs."
+
+#: lib/plugins/eab-buddypress-group_events.php:158
+#, fuzzy
+msgid "Gruppenveranstaltungen sind für Gruppen privat"
+msgstr "Group events are private for groups"
+
+#: lib/plugins/eab-buddypress-group_events.php:160
+#, fuzzy
+msgid ""
+"Wenn Du diese Option aktivierst, können Benutzer außerhalb Ihrer Gruppen "
+"Gruppenereignisse <b>nicht</b> sehen."
+msgstr ""
+"If you activate this option, users outside your groups will <b>not</b> be "
+"able to see group events."
+
+#: lib/plugins/eab-buddypress-group_events.php:163
+#, fuzzy
+msgid "Nur Gruppen anzeigen, zu denen der Benutzer gehört"
+msgstr "Only display groups to which the user belongs"
+
+#: lib/plugins/eab-buddypress-group_events.php:165
+#, fuzzy
+msgid ""
+"Wenn Du diese Option aktivierst, können Benutzer keine Ereignisse außerhalb "
+"der Gruppen zuweisen, zu denen sie bereits gehören."
+msgstr ""
+"If you activate this option, users cannot assign events outside the groups "
+"to which they already belong."
+
+#: lib/plugins/eab-buddypress-group_events.php:167
+#, fuzzy
+msgid "... außer für Superadministratoren"
+msgstr "... except for super administrators"
+
+#: lib/plugins/eab-buddypress-group_events.php:169
+#, fuzzy
+msgid ""
+"Wenn Du diese Option aktivierst, können Deine Superadministratoren jeder "
+"Gruppe Ereignisse zuweisen."
+msgstr ""
+"If you activate this option, your super administrators can assign events to "
+"each group."
+
+#: lib/plugins/eab-buddypress-group_events.php:172
+#, fuzzy
+msgid ""
+"Sende eine E-Mail an alle Gruppenmitglieder, wenn ein Ereignis erstellt oder "
+"bearbeitet wird"
+msgstr "Send an e-mail to all group members when an event is created or edited"
+
+#: lib/plugins/eab-buddypress-group_events.php:212
+#, fuzzy
+msgid "<h3>Dies ist eine Gruppenveranstaltung für:</h3>"
+msgstr "<h3>This is a group event for:</h3>"
+
+#: lib/plugins/eab-buddypress-group_events.php:214
+#, fuzzy
+msgid "Keine Gruppenveranstaltung"
+msgstr "No group event"
+
+#: lib/plugins/eab-buddypress-group_events.php:243
+#, fuzzy
+msgid "Dies ist eine Gruppenveranstaltung für"
+msgstr "This is a group event for"
+
+#: lib/plugins/eab-buddypress-group_events.php:245
+#, fuzzy
+msgid "Kein Gruppenereignis"
+msgstr "No group event"
+
+#: lib/plugins/eab-buddypress-group_events.php:270
+#, fuzzy
+msgid "Informationen zu einem Gruppenereignis"
+msgstr "Information on a group event"
+
+#: lib/plugins/eab-buddypress-group_events.php:272
+msgid "Hallo "
+msgstr "Hello "
+
+#: lib/plugins/eab-buddypress-group_events.php:298
+#, fuzzy
+msgid "Gruppenereignisse"
+msgstr "Group events"
+
+#: lib/plugins/eab-buddypress-group_events.php:352
+msgid "Zurück"
+msgstr "Back"
+
+#: lib/plugins/eab-buddypress-group_events.php:355
+msgid "Weiter"
+msgstr "Next"
+
+#: lib/plugins/eab-buddypress-group_events.php:553
+#, fuzzy
+msgid "BuddyPress-Gruppenarchive"
+msgstr "BuddyPress group archives"
+
+#: lib/plugins/eab-buddypress-group_events.php:556
+#, fuzzy
+msgid "Startdatum - Standard <bold>Jetzt</bold>"
+msgstr "Start date - Standard <bold>Now</bold>"
+
+#: lib/plugins/eab-buddypress-group_events.php:559
+#, fuzzy
+msgid "Zeige Ereignisse aus dieser Kategorie (ID oder Slug)"
+msgstr "Show events from this category (ID or slug)"
+
+#: lib/plugins/eab-buddypress-group_events.php:562
+#, fuzzy
+msgid ""
+"Gruppen-ID, Schlüsselwörter \"Meine Gruppen\" oder \"Alle\" oder durch "
+"Kommas getrennte Liste von Gruppen-IDs"
+msgstr ""
+"Group ID, keywords \"My groups\" or \"All\" or comma-separated list of group "
+"IDs"
+
+#: lib/plugins/eab-buddypress-group_events.php:563
+#, fuzzy
+msgid ""
+"Benutzer-ID oder Schlüsselwort \"aktuell\" - erforderlich, wenn <code> "
+"groups </code> auf \"Meine-Gruppen\" gesetzt ist"
+msgstr ""
+"User ID or keyword \"current\" - required if <code> groups </code> is set to "
+"\"My groups\""
+
+#: lib/plugins/eab-email-enewsletter_integration.php:52
+#, fuzzy
+msgid ""
+"Du musst <a href='https://n3rds.work/piestingtal-source-project/ps-"
+"enewsletter-plugin'>PSeNewsletter</a> Plugin für die PSeNewsletter "
+"Integration in PS Events installiert & aktiviert haben damit die Erweiterung "
+"funktioniert"
+msgstr ""
+"You must have the <a href='https://n3rds.work/piestingtal-source-project/ps-"
+"enewsletter-plugin'>PSeNewsletter</a> plugin for the PSeNewsletter "
+"integration in PS Events installed &amp; activated for the extension to work"
+
+#: lib/plugins/eab-email-enewsletter_integration.php:59
+#, fuzzy
+msgid "PS-eNewsletter"
+msgstr "PS eNewsletter"
+
+#: lib/plugins/eab-email-enewsletter_integration.php:68
+#, fuzzy
+msgid "Wenn ich meine Veranstaltung speichere, sende diesen Newsletter:"
+msgstr "If I save my event, send this newsletter:"
+
+#: lib/plugins/eab-email-enewsletter_integration.php:70
+#, fuzzy
+msgid "Sende keinen Newsletter"
+msgstr "Do not send a newsletter"
+
+#: lib/plugins/eab-email-enewsletter_integration.php:80
+#, fuzzy
+msgid ""
+"Verwende diesen Newsletter als Vorlage und erweitere Makros mit den "
+"Ereignisdaten"
+msgstr ""
+"Use this newsletter as a template and extend macros with the event data"
+
+#: lib/plugins/eab-email-enewsletter_integration.php:83
+#, fuzzy
+msgid "RSVPs zur Newsletter-Gruppe"
+msgstr "RSVPs to the newsletter group"
+
+#: lib/plugins/eab-email-enewsletter_integration.php:84
+#, fuzzy
+msgid ""
+"Konvertiert die RSVPs in eine neue Newsletter-Mitgliedergruppe oder "
+"aktualisiere die vorhandene Ereignisgruppe mit neuen RSVP-Informationen."
+msgstr ""
+"Convert the RSVPs to a new newsletter member group or update the existing "
+"event group with new RSVP information."
+
+#: lib/plugins/eab-email-enewsletter_integration.php:87
+#, fuzzy
+msgid "Teilnahmen (&quot;Yes&quot;)"
+msgstr "Participation (&quot;Yes&quot;)"
+
+#: lib/plugins/eab-email-enewsletter_integration.php:92
+#, fuzzy
+msgid "Unentschlossen (&quot;Maybe&quot;)"
+msgstr "Undecided (&quot;Maybe&quot;)"
+
+#: lib/plugins/eab-email-enewsletter_integration.php:97
+#, fuzzy
+msgid "Abgelehnt (&quot;No&quot;)"
+msgstr "Rejected (&quot;No&quot;)"
+
+#: lib/plugins/eab-email-enewsletter_integration.php:468
+#, fuzzy, php-format
+msgid "Neues Ereignis: %s"
+msgstr "New event: %s"
+
+#: lib/plugins/eab-event-alert-rsvp.php:91
+#, fuzzy
+msgid "Benachrichtige RSVP-Einstellungen"
+msgstr "Notify RSVP settings"
+
+#: lib/plugins/eab-event-alert-rsvp.php:93
+msgid "Betreff"
+msgstr "Subject"
+
+#: lib/plugins/eab-event-alert-rsvp.php:95
+#, fuzzy
+msgid "E-Mail-Inhalt"
+msgstr "E-mail content"
+
+#: lib/plugins/eab-event-alert-rsvp.php:97
+#, fuzzy
+msgid ""
+"Du kannst diese Makros verwenden: DISPLAY_NAME, EVENT_NAME, START_DATE, "
+"START_TIME, END_DATE, END_TIME"
+msgstr ""
+"You can use these macros: DISPLAY_NAME, EVENT_NAME, START_DATE, START_TIME, "
+"END_DATE, END_TIME"
+
+#: lib/plugins/eab-events-capabilities.php:20
+#, fuzzy
+msgid "Ereignisse anderer bearbeiten"
+msgstr "Edit events of others"
+
+#: lib/plugins/eab-events-capabilities.php:21
+#, fuzzy
+msgid "Ereignisse veröffentlichen"
+msgstr "Publish events"
+
+#: lib/plugins/eab-events-capabilities.php:22
+#, fuzzy
+msgid "Veröffentlichte Ereignisse bearbeiten"
+msgstr "Edit published events"
+
+#: lib/plugins/eab-events-capabilities.php:23
+#, fuzzy
+msgid "Ereignisse löschen"
+msgstr "Delete events"
+
+#: lib/plugins/eab-events-capabilities.php:24
+#, fuzzy
+msgid "Veröffentlichte Ereignisse löschen"
+msgstr "Delete published events"
+
+#: lib/plugins/eab-events-capabilities.php:88
+#, fuzzy
+msgid "Ereignisfunktionen"
+msgstr "Event functions"
+
+#: lib/plugins/eab-events-capabilities.php:92
+#, fuzzy
+msgid "Bitte wähle eine Rolle aus"
+msgstr "Please select a role"
+
+#: lib/plugins/eab-events-capabilities.php:102
+#: lib/plugins/eab-events-colors.php:199
+#, fuzzy
+msgid "Auf Standardeinstellung zurücksetzen"
+msgstr "Reset to default setting"
+
+#: lib/plugins/eab-events-capabilities.php:107
+#, fuzzy
+msgid ""
+"Aktiviere das Kontrollkästchen, wenn Du die Mediendateien nur auf den Autor "
+"beschränken möchtest"
+msgstr ""
+"Activate the checkbox if you want to restrict the media files to the author "
+"only"
+
+#: lib/plugins/eab-events-capabilities.php:123
+#, fuzzy, php-format
+msgid "Deine <b>%s</b> Benutzer können..."
+msgstr "Your <b>%s</b> Users can..."
+
+#: lib/plugins/eab-events-colors.php:148
+#, fuzzy
+msgid "Ereignisfarben"
+msgstr "Event colors"
+
+#: lib/plugins/eab-events-colors.php:154
+#, fuzzy, php-format
+msgid "Ereigniskategorie: &quot;%s&quot;"
+msgstr "Event category: &quot;%s&quot;"
+
+#: lib/plugins/eab-events-colors.php:167
+msgid "Standard"
+msgstr "Default"
+
+#: lib/plugins/eab-events-colors.php:185
+msgid "Hintergrund"
+msgstr "Background"
+
+#: lib/plugins/eab-events-colors.php:189
+#: lib/plugins/eab-rsvps-additional_registration_fields.php:180
+msgid "Text"
+msgstr "Text"
+
+#: lib/plugins/eab-events-colors.php:194
+msgid "Überspringen"
+msgstr "Skip"
+
+#: lib/plugins/eab-events-colors.php:204
+#, fuzzy
+msgid "Wende Hintergründe auf ein Kalender-Widget mit einer Kategorie an"
+msgstr "Apply backgrounds to a calendar widget with a category"
+
+#: lib/plugins/eab-events-colors.php:205
+#, fuzzy
+msgid ""
+"Wenn Du diese Option auswählst, werden die Vordergrund- und Hintergrundfarbe "
+"auf Deine Kalender-Widget-Ereignisse übertragen, sofern nur eine Kategorie "
+"für die Anzeige ausgewählt ist."
+msgstr ""
+"If you select this option, the foreground and background color will be "
+"applied to your calendar widget events if only one category is selected for "
+"display."
+
+#: lib/plugins/eab-events-colors.php:210
+#, fuzzy
+msgid "Wende Farben auf erweiterte Ereignisse des Kalender-Widgets an"
+msgstr "Apply colors to extended events of the calendar widget"
+
+#: lib/plugins/eab-events-event_cancelation.php:24
+#, fuzzy
+msgid "Schlechte Nachrichten! EVENT_NAME wurde abgebrochen"
+msgstr "Bad news! EVENT_NAME was canceled"
+
+#: lib/plugins/eab-events-event_cancelation.php:25
+#, fuzzy
+msgid ""
+"Hallo, USER_NAME\n"
+"\n"
+"Unfortunately, Leider wurde unser EVENT_LINK-Event abgesagt."
+msgstr ""
+"Hello, USER_NAME\n"
+"\n"
+"Unfortunately, our EVENT_LINK event has been canceled."
+
+#: lib/plugins/eab-events-event_cancelation.php:74
+msgid "Abgebrochen"
+msgstr "Canceled"
+
+#: lib/plugins/eab-events-event_cancelation.php:83
+#, fuzzy
+msgid "Ereignis abbrechen"
+msgstr "Cancel event"
+
+#: lib/plugins/eab-events-event_cancelation.php:114
+#, fuzzy
+msgid "Veranstaltung wurde abgesagt"
+msgstr "Event was canceled"
+
+#: lib/plugins/eab-events-event_cancelation.php:278
+#, fuzzy
+msgid "Einstellungen Ereignisstornierung"
+msgstr "Event cancellation settings"
+
+#: lib/plugins/eab-events-event_cancelation.php:281
+#, fuzzy
+msgid "Abgebrochene Ereignisse ausblenden"
+msgstr "Hide canceled events"
+
+#: lib/plugins/eab-events-event_cancelation.php:286
+#, fuzzy
+msgid "E-Mail-Batch-Limit"
+msgstr "E-mail batch limit"
+
+#: lib/plugins/eab-events-event_cancelation.php:287
+#, fuzzy
+msgid ""
+"Dies ist die maximale Anzahl von E-Mails, die auf einmal gesendet werden. "
+"Der Rest wird für den Versand geplant."
+msgstr ""
+"This is the maximum number of emails that can be sent at once. The rest is "
+"scheduled for dispatch."
+
+#: lib/plugins/eab-events-event_cancelation.php:291
+#, fuzzy
+msgid ""
+"Dies ist die E-Mail, die bei Absage der Veranstaltung an Ihre Teilnehmer "
+"gesendet wird."
+msgstr ""
+"This is the e-mail that will be sent to your participants if the event is "
+"canceled."
+
+#: lib/plugins/eab-events-event_cancelation.php:294
+#: lib/plugins/eab-rsvps-rsvp_email.php:122
+#, fuzzy
+msgid "Von der Email Adresse"
+msgstr "From the email address"
+
+#: lib/plugins/eab-events-event_cancelation.php:295
+#, fuzzy
+msgid "Dies ist die Adresse, von der aus die Stornierungs-E-Mail gesendet wird"
+msgstr "This is the address from which the cancellation e-mail will be sent"
+
+#: lib/plugins/eab-events-event_cancelation.php:299
+#, fuzzy
+msgid "Email Betreff"
+msgstr "Email subject"
+
+#: lib/plugins/eab-events-event_cancelation.php:300
+#: lib/plugins/eab-rsvps-email-non_paid.php:181
+#: lib/plugins/eab-rsvps-rsvp_email.php:128
+#: lib/plugins/eab-rsvps-rsvp_email_me.php:216
+#, fuzzy, php-format
+msgid ""
+"Dies ist der E-Mail-Betreff. Du kannst diese Makros verwenden: <code>%s</"
+"code>"
+msgstr "This is the email subject. You can use these macros: <code>%s</code>"
+
+#: lib/plugins/eab-events-event_cancelation.php:304
+#: lib/plugins/eab-rsvps-email-non_paid.php:185
+#: lib/plugins/eab-rsvps-rsvp_email.php:132
+#: lib/plugins/eab-rsvps-rsvp_email_me.php:220
+msgid "Nachrichtentext"
+msgstr "Body"
+
+#: lib/plugins/eab-events-event_cancelation.php:305
+#: lib/plugins/eab-rsvps-email-non_paid.php:186
+#: lib/plugins/eab-rsvps-rsvp_email.php:133
+#: lib/plugins/eab-rsvps-rsvp_email_me.php:221
+#, fuzzy, php-format
+msgid ""
+"Dies ist der E-Mail-Text. Du kannst diese Makros verwenden: <code>%s</code>"
+msgstr "This is the email text. You can use these macros: <code>%s</code>"
+
+#: lib/plugins/eab-events-event_cancelation.php:310
+#, fuzzy, php-format
+msgid ""
+"Du kannst diese Makros in Deinem Betreff und Nachrichtentext verwenden: "
+"<code>%s</code>"
+msgstr ""
+"You can use these macros in your subject and message text: <code>%s</code>"
+
+#: lib/plugins/eab-events-event_cancelation.php:313
+#, fuzzy
+msgid "VORSCHAU"
+msgstr "PREVIEW"
+
+#: lib/plugins/eab-events-event_cancelation.php:314
+#, fuzzy
+msgid "Verwende diese Ereignisdaten:"
+msgstr "Use this event data:"
+
+#: lib/plugins/eab-events-event_cancelation.php:338
+#, fuzzy
+msgid "Bitte hör auf... "
+msgstr "Please stop..."
+
+#: lib/plugins/eab-events-expire_month_old_events.php:33
+#: lib/plugins/eab-events-expire_past_events.php:33
+#, fuzzy
+msgid ""
+"<b>Konfliktwarnung:</b> Du musst eines der Add-Ons für den Ablauf "
+"vergangener Ereignisse deaktivieren."
+msgstr ""
+"<b>Conflict warning:</b> You must deactivate one of the add-ons for the "
+"sequence of past events."
+
+#: lib/plugins/eab-events-front_page_editing.php:67
+#, fuzzy
+msgid "Frontend Editor"
+msgstr "Frontend Editor"
+
+#: lib/plugins/eab-events-front_page_editing.php:71
+#, fuzzy
+msgid "Ich möchte diese Seite als Front-Editor-Seite verwenden"
+msgstr "I would like to use this page as a front editor page"
+
+#: lib/plugins/eab-events-front_page_editing.php:74
+#, fuzzy
+msgid "Standardwert verwenden"
+msgstr "Use default value"
+
+#: lib/plugins/eab-events-front_page_editing.php:82
+#, fuzzy
+msgid ""
+"Vergiss nicht, diesen Shortcode zu Deiner ausgewählten Seite hinzuzufügen: "
+"<code>[eab_event_editor]</code>"
+msgstr ""
+"Don't forget to add this shortcode to your selected page: "
+"<code>[eab_event_editor]</code>"
+
+#: lib/plugins/eab-events-front_page_editing.php:83
+#, fuzzy
+msgid ""
+"Standardmäßig arbeitet der Startseiten-Editor mit vorkonfigurierter Stub-"
+"URL. Du kannst jedoch eine eigene Seite erstellen, den Shortcode für die "
+"Bearbeitung der Startseite (<code> [eab_event_editor] </code>) zum Inhalt "
+"hinzufügen und Deine Links zum Hinzufügen/Bearbeiten hier so konfigurieren, "
+"dass stattdessen diese Seite verwendet wird."
+msgstr ""
+"By default, the start page editor works with a preconfigured stub URL. "
+"However, you can create your own page, add the shortcode for editing the "
+"start page (<code> [eab_event_editor] </code>) to the content and configure "
+"your add/edit links here to use this page instead."
+
+#: lib/plugins/eab-events-front_page_editing.php:90
+#, fuzzy
+msgid "Integration in die Erweiterung <em> Meine Ereignisse </em>"
+msgstr "Integration in the <em> My Events </em> extension "
+
+#: lib/plugins/eab-events-front_page_editing.php:92
+#, fuzzy
+msgid ""
+"Durch Aktivieren dieser Option wird ein neuer &quot;Neues Ereignis&quot; Tab "
+"zu &quot;Meine Veranstaltungen&quot; hinzu gefügt"
+msgstr ""
+"By activating this option, a new &quot;New event&quot; tab is added to &quot;"
+"My events&quot"
+
+#: lib/plugins/eab-events-front_page_editing.php:113
+#, fuzzy
+msgid "Ereignis erstellen"
+msgstr "Create event"
+
+#: lib/plugins/eab-events-front_page_editing.php:138
+#, fuzzy
+msgid "Diese Veranstaltung bearbeiten"
+msgstr "Edit this event"
+
+#: lib/plugins/eab-events-front_page_editing.php:176
+#, fuzzy
+msgid "Veranstaltung hinzufügen"
+msgstr "Add event"
+
+#: lib/plugins/eab-events-front_page_editing.php:184
+#, fuzzy
+msgid "Bearbeite diese Veranstaltung"
+msgstr "Edit this event"
+
+#: lib/plugins/eab-events-front_page_editing.php:229
+#, fuzzy
+msgid "Keine Daten empfangen"
+msgstr "No data received"
+
+#: lib/plugins/eab-events-front_page_editing.php:235
+#, fuzzy
+msgid "Keine ausreichenden Berechtigungen"
+msgstr "Insufficient authorizations"
+
+#: lib/plugins/eab-events-front_page_editing.php:271
+#, fuzzy
+msgid "Beim Speichern dieses Ereignisses ist ein Fehler aufgetreten"
+msgstr "An error occurred when saving this event"
+
+#: lib/plugins/eab-events-front_page_editing.php:302
+#, fuzzy
+msgid "Ereignis gespeichert und veröffentlicht"
+msgstr "Event saved and published"
+
+#: lib/plugins/eab-events-front_page_editing.php:305
+#, fuzzy
+msgid "Ereignis gespeichert und wartet auf Genehmigung"
+msgstr "Event saved and waiting for approval"
+
+#: lib/plugins/eab-events-front_page_editing.php:381
+#, fuzzy
+msgid "ZURÜCK ZUR VERANSTALTUNG"
+msgstr "BACK TO THE EVENT"
+
+#: lib/plugins/eab-events-front_page_editing.php:384
+#, fuzzy
+msgid "<h2>Titel der Veranstaltung:</h2>"
+msgstr "<h2>Title of the event:</h2>"
+
+#: lib/plugins/eab-events-front_page_editing.php:418
+#, fuzzy
+msgid "<h3>Das Event beginnt:</h3>"
+msgstr "<h3>The event begins:</h3>"
+
+#: lib/plugins/eab-events-front_page_editing.php:425
+#: lib/plugins/eab-events-front_page_editing.php:445
+#, fuzzy
+msgid "Uhrzeit:"
+msgstr "Time:"
+
+#: lib/plugins/eab-events-front_page_editing.php:438
+#, fuzzy
+msgid "<h3>Das Event endet:</h3>"
+msgstr "<h3>The event ends:</h3>"
+
+#: lib/plugins/eab-events-front_page_editing.php:465
+#, fuzzy
+msgid "<h3>Event-Status:</h3>"
+msgstr "<h3>Event status:</h3>"
+
+#: lib/plugins/eab-events-front_page_editing.php:467
+#, fuzzy
+msgid "Findet statt"
+msgstr "Takes place"
+
+#: lib/plugins/eab-events-front_page_editing.php:479
+#, fuzzy
+msgid "<h3>Ist dies eine kostenpflichtige Veranstaltung?</h3>"
+msgstr "<h3>Is this a paid event?</h3>"
+
+#: lib/plugins/eab-events-front_page_editing.php:485
+#, fuzzy
+msgid "Teilnahme-Gebühr:"
+msgstr "Participation fee:"
+
+#: lib/plugins/eab-events-front_page_editing.php:501
+#, fuzzy
+msgid "<h3>Veranstaltungsort:</h3>"
+msgstr "<h3>Venue:</h3>"
+
+#: lib/plugins/eab-events-front_page_editing.php:518
+#, fuzzy
+msgid "<h3>Ereigniskategorie:</h3>"
+msgstr "<h3>Event category:</h3>"
+
+#: lib/plugins/eab-events-front_page_editing.php:546
+#: lib/plugins/eab-events-front_page_editing.php:559
+#, fuzzy
+msgid "<h3>Veranstaltungsbild</h3>"
+msgstr "<h3>Event picture</h3>"
+
+#: lib/plugins/eab-events-front_page_editing.php:553
+#, fuzzy
+msgid "<b>Veranstaltungsbild hochladen</b>"
+msgstr "<b>Upload event picture</b>"
+
+#: lib/plugins/eab-events-front_page_editing.php:566
+#, fuzzy
+msgid "EREIGNIS AKTUALISIEREN"
+msgstr "UPDATE EVENT"
+
+#: lib/plugins/eab-events-front_page_editing.php:566
+#, fuzzy
+msgid "EREIGNIS VERÖFFENTLICHEN"
+msgstr "PUBLISH EVENT"
+
+#: lib/plugins/eab-events-front_page_editing.php:569
+#, fuzzy
+msgid "ABBRECHEN"
+msgstr "CANCEL"
+
+#: lib/plugins/eab-events-front_page_editing.php:580
+#, fuzzy
+msgid "RSVPs umschalten"
+msgstr "Switch RSVPs"
+
+#: lib/plugins/eab-events-front_page_editing.php:635
+#, fuzzy
+msgid "Bitte lege sowohl Start- als auch Enddaten und -zeiten fest"
+msgstr "Please specify both start and end dates and times"
+
+#: lib/plugins/eab-events-front_page_editing.php:636
+#, fuzzy
+msgid "Bitte überprüfe Deine Zeit- und Datumseinstellungen"
+msgstr "Please check your time and date settings"
+
+#: lib/plugins/eab-events-front_page_editing.php:637
+#: lib/plugins/eab-import-meetup.php:419
+msgid "Fehler"
+msgstr "Error"
+
+#: lib/plugins/eab-events-front_page_editing.php:638
+#, fuzzy
+msgid "Speichern fehlgeschlagen"
+msgstr "Save failed"
+
+#: lib/plugins/eab-events-front_page_editing.php:639
+#, fuzzy
+msgid "Alles Super!"
+msgstr "Everything is great!"
+
+#: lib/plugins/eab-events-limit_capacity.php:152
+#, fuzzy, php-format
+msgid "%d Plätze frei"
+msgstr "%d Places available"
+
+#: lib/plugins/eab-events-limit_capacity.php:175
+#, fuzzy, php-format
+msgid "%s Tickets übrig"
+msgstr "%s Tickets left"
+
+#: lib/plugins/eab-events-limit_capacity.php:176
+#, fuzzy
+msgid "Keine Tickets mehr"
+msgstr "No more tickets"
+
+#: lib/plugins/eab-events-limit_capacity.php:201
+#, fuzzy
+msgid "Ereigniskapazität"
+msgstr "Event capacity"
+
+#: lib/plugins/eab-events-limit_capacity.php:204
+#: lib/plugins/eab-events-limit_capacity.php:226
+#, fuzzy
+msgid "Gib die maximale Teilnehmerzahl für diese Veranstaltung ein:"
+msgstr "Enter the maximum number of participants for this event:"
+
+#: lib/plugins/eab-events-limit_capacity.php:206
+#: lib/plugins/eab-events-limit_capacity.php:228
+#, fuzzy
+msgid ", oder auswählen für unbegrenzt:"
+msgstr "or select for unlimited:"
+
+#: lib/plugins/eab-events-limit_capacity.php:274
+#, fuzzy
+msgid "Entschuldigung, die Veranstaltung ist ausverkauft."
+msgstr "Sorry, the event is sold out."
+
+#: lib/plugins/eab-events-limit_capacity.php:317
+#, fuzzy
+msgid "Einstellungen für Ereignisse mit begrenzter Kapazität"
+msgstr "Settings for events with limited capacity"
+
+#: lib/plugins/eab-events-limit_capacity.php:321
+#, fuzzy
+msgid "Verbleibende Plätze anzeigen"
+msgstr "Show remaining seats"
+
+#: lib/plugins/eab-events-limit_capacity.php:325
+#, fuzzy
+msgid ""
+"Link zum Abbrechen anzeigen für abgemeldete Benutzer, wenn das Ereignis "
+"ausverkauft ist"
+msgstr "Show link to cancel for logged out users if the event is sold out"
+
+#: lib/plugins/eab-events-limit_capacity.php:341
+#, fuzzy
+msgid "Entschuldigung, die Veranstaltung hat ihre maximale Kapazität erreicht!"
+msgstr "Sorry, the event has reached its maximum capacity!"
+
+#: lib/plugins/eab-events-manual-payments.php:117
+#, fuzzy
+msgid "Vielen Dank für die Zahlung!"
+msgstr "Thank you for the payment!"
+
+#: lib/plugins/eab-events-manual-payments.php:133
+#, fuzzy
+msgid ""
+"Du hast kein Schlüsselwort MANUALPAYMENTBUTTON im Feld Anweisungen. Dies "
+"bedeutet, dass es keine Schaltfläche gibt und der Benutzer Dich nicht "
+"darüber informieren kann, dass er eine Zahlung geleistet hat, was wiederum "
+"bedeutet, dass die manuelle Zahlung praktisch unbrauchbar ist."
+msgstr ""
+"You do not have the keyword MANUALPAYMENTBUTTON in the Instructions field. "
+"This means that there is no button and the user cannot inform you that they "
+"have made a payment, which in turn means that manual payment is practically "
+"useless."
+
+#: lib/plugins/eab-events-manual-payments.php:160
+#, fuzzy
+msgid "Manuelle Zahlungseinstellungen"
+msgstr "Manual payment settings"
+
+#: lib/plugins/eab-events-manual-payments.php:163
+#, fuzzy
+msgid "Wähle den Schaltflächentext aus"
+msgstr "Select the button text"
+
+#: lib/plugins/eab-events-manual-payments.php:165
+#, fuzzy
+msgid ""
+"Dies ist der Text, der auf der Schaltfläche Manuelle Zahlung auswählen "
+"angezeigt wird."
+msgstr ""
+"This is the text that is displayed on the Select manual payment button."
+
+#: lib/plugins/eab-events-manual-payments.php:169
+#, fuzzy
+msgid "Bezahlbutton Text"
+msgstr "Pay button text"
+
+#: lib/plugins/eab-events-manual-payments.php:171
+#, fuzzy
+msgid ""
+"Dies ist der Text, der auf der Schaltfläche Bezahlen angezeigt wird. Der "
+"Benutzer muss auf diese Schaltfläche klicken, nachdem er die Zahlung "
+"getätigt hat."
+msgstr ""
+"This is the text that is displayed on the Pay button. The user must click on "
+"this button after making the payment."
+
+#: lib/plugins/eab-events-manual-payments.php:175
+msgid "Anleitung"
+msgstr "Tour"
+
+#: lib/plugins/eab-events-manual-payments.php:176
+#, fuzzy
+msgid ""
+"Schreibe hier das Verfahren, das der Benutzer für eine manuelle Zahlung "
+"ausführen muss. Verwende den MANUALPAYMENTBUTTON, um den Pay Button an der "
+"gewünschten Stelle einzufügen."
+msgstr ""
+"Write here the procedure that the user must perform for a manual payment. "
+"Use the MANUALPAYMENTBUTTON to insert the pay button at the desired location."
+
+#: lib/plugins/eab-events-manual-payments.php:224
+#, fuzzy
+msgid "Benutzer-ID oder Ereignis-ID fehlt"
+msgstr "User ID or event ID missing"
+
+#: lib/plugins/eab-events-manual-payments.php:242
+#, fuzzy
+msgid "Datensatz konnte nicht gefunden werden"
+msgstr "Data record could not be found"
+
+#: lib/plugins/eab-events-manual-payments.php:256
+#, fuzzy
+msgid "Zahlung genehmigen"
+msgstr "Authorize payment"
+
+#: lib/plugins/eab-events-manual-payments.php:261
+#, fuzzy
+msgid "Bist Du sicher, diese Zahlung zu genehmigen?"
+msgstr "Are you sure you can authorize this payment?"
+
+#: lib/plugins/eab-events-membership2-integration.php:115
+#, fuzzy, php-format
+msgid ""
+"Das %sPS-Mitgliedschaften%s Plugin installieren und aktivieren, damit die PS-"
+"Mitgliedschaften Integration funktioniert"
+msgstr ""
+"Install and activate the %sPS-Mitgliedschaften%s plugin so that the PS "
+"membership integration works"
+
+#: lib/plugins/eab-events-membership2-integration.php:189
+#, fuzzy
+msgid "Mitgliedschaften Preise"
+msgstr "Memberships Prices"
+
+#: lib/plugins/eab-events-membership2-integration.php:214
+#, fuzzy
+msgid "Standardpreis"
+msgstr "Standard price"
+
+#: lib/plugins/eab-events-noindex_meta.php:46
+#: lib/plugins/eab-events-noindex_meta.php:51
+#, fuzzy
+msgid "Nur Zukunft"
+msgstr "Future only"
+
+#: lib/plugins/eab-events-noindex_meta.php:47
+#: lib/plugins/eab-events-noindex_meta.php:52
+#, fuzzy
+msgid "Nur Vergangenheit"
+msgstr "Only the past"
+
+#: lib/plugins/eab-events-noindex_meta.php:48
+#, fuzzy
+msgid "Alle wiederkehrenden Instanzen"
+msgstr "All recurring instances"
+
+#: lib/plugins/eab-events-noindex_meta.php:53
+#, fuzzy
+msgid "Alle Veranstaltungsarchive"
+msgstr "All event archives"
+
+#: lib/plugins/eab-events-noindex_meta.php:59
+#, fuzzy
+msgid "Noindex-Meta für Ereignisse"
+msgstr "Noindex meta for events"
+
+#: lib/plugins/eab-events-noindex_meta.php:62
+#, fuzzy
+msgid "Fügt wiederkehrenden Ereignisinstanzen <code>noindex</code> hinzu"
+msgstr "Adds <code>noindex</code> to recurring event instances"
+
+#: lib/plugins/eab-events-noindex_meta.php:72
+#, fuzzy
+msgid "Fügt <code>noindex</code> zu meinen Ereignisarchiven hinzu"
+msgstr "Adds <code>noindex</code> to my event archives"
+
+#: lib/plugins/eab-events-noindex_meta.php:85
+#, fuzzy
+msgid "Fügt auch <code>nofollow</code> hinzu."
+msgstr "Also adds <code>nofollow</code>."
+
+#: lib/plugins/eab-events-pa_events.php:48
+#, fuzzy
+msgid "Öffentliche Ankündigung"
+msgstr "Public announcement"
+
+#: lib/plugins/eab-events-pa_events.php:53
+#: lib/plugins/eab-events-pa_events.php:69
+#, fuzzy
+msgid "Dies ist eine öffentliche Ankündigung"
+msgstr "This is a public announcement"
+
+#: lib/plugins/eab-events-redirect.php:137
+#, fuzzy
+msgid "Dies ist keine gültige Quell-ID."
+msgstr "This is not a valid source ID."
+
+#: lib/plugins/eab-events-redirect.php:142
+#, fuzzy
+msgid ""
+"Ziel und Quelle zeigen auf dieselbe Seite. Dies führt zu einer endlosen "
+"Umleitungsschleife."
+msgstr ""
+"Destination and source point to the same page. This leads to an endless "
+"redirection loop."
+
+#: lib/plugins/eab-events-redirect.php:182
+#, fuzzy
+msgid "Ereignisgesteuerte Umleitung"
+msgstr "Event-controlled redirection"
+
+#: lib/plugins/eab-events-redirect.php:183
+#, fuzzy
+msgid "ID der Quellseite "
+msgstr "ID of the source page"
+
+#: lib/plugins/eab-events-redirect.php:186
+#, fuzzy
+msgid "URL des Ziels "
+msgstr "URL of the destination"
+
+#: lib/plugins/eab-events-redirect.php:218
+#, fuzzy
+msgid "Ereignisgesteuerte Umleitungseinstellungen"
+msgstr "Event-controlled redirection settings"
+
+#: lib/plugins/eab-events-redirect.php:221
+#, fuzzy
+msgid "Globale Quellenseiten-ID"
+msgstr "Global source page ID"
+
+#: lib/plugins/eab-events-redirect.php:223
+#, fuzzy
+msgid ""
+"Wenn Du hier eine ID eingibst, verwenden alle Ereignisse, für die KEINE ID-"
+"Einstellung für die Quellseite vorhanden ist, diese Einstellung."
+msgstr ""
+"If you enter an ID here, all events for which there is NO ID setting for the "
+"source page will use this setting."
+
+#: lib/plugins/eab-events-redirect.php:227
+#, fuzzy
+msgid "Globale Ziel-URL"
+msgstr "Global destination URL"
+
+#: lib/plugins/eab-events-redirect.php:229
+#, fuzzy
+msgid ""
+"Wenn Du hier eine URL eingibst, verwenden alle Ereignisse, die KEINE Ziel-"
+"URL-Einstellung haben, diese Einstellung."
+msgstr ""
+"If you enter a URL here, all events that do NOT have a target URL setting "
+"will use this setting."
+
+#: lib/plugins/eab-events-rsvp_close_period.php:59
+#, fuzzy
+msgid "RSVP-Anmeldefrist für Ereignisse"
+msgstr "RSVP registration deadline for events"
+
+#: lib/plugins/eab-events-rsvp_close_period.php:63
+#, fuzzy
+msgid "Stunden vor Beginn"
+msgstr "Hours before start"
+
+#: lib/plugins/eab-events-rsvp_close_period.php:64
+#: lib/plugins/eab-events-rsvp_close_period.php:82
+#, fuzzy
+msgid ", oder auswählen wenn keine Anmeldefrist vorliegt:"
+msgstr "or select if there is no registration deadline:"
+
+#: lib/plugins/eab-events-rsvp_close_period.php:80
+#, fuzzy
+msgid "Gib die RSVP-Anmeldefrist für dieses Ereignis ein (in Stunden):"
+msgstr "Enter the RSVP registration period for this event (in hours):"
+
+#: lib/plugins/eab-events-rsvp_close_period.php:121
+#, fuzzy
+msgid ""
+"Leider sind für diese Veranstaltung keine RSVP-Buchungen mehr verfügbar."
+msgstr ""
+"Unfortunately there are no more RSVP bookings available for this event."
+
+#: lib/plugins/eab-events-rsvp_close_period.php:162
+#, fuzzy
+msgid "Leider sind RSVP-Buchungen für diese Veranstaltung jetzt geschlossen."
+msgstr "Unfortunately RSVP bookings for this event are now closed."
+
+#: lib/plugins/eab-events-social_rsvp.php:40
+#, fuzzy
+msgid ""
+"Du musst Facebook-Anmeldungen aktivieren und konfigurieren, damit die "
+"Erweiterung für soziale RSVPs ordnungsgemäß funktioniert"
+msgstr ""
+"You must enable and configure Facebook logins for the social RSVP extension "
+"to work properly"
+
+#: lib/plugins/eab-events-social_rsvp.php:43
+#, fuzzy
+msgid ""
+"Du musst Deine Facebook-App so konfigurieren, dass das Add-On für soziale "
+"RSVPs ordnungsgemäß funktioniert"
+msgstr ""
+"You need to configure your Facebook app so that the social RSVP add-on works "
+"properly"
+
+#: lib/plugins/eab-events_weekly_calendar.php:115
+#, fuzzy, php-format
+msgid "Ereignisse von %s bis %s"
+msgstr "Events from %s to %s"
+
+#: lib/plugins/eab-events_weekly_calendar.php:124
+msgid "Vorherige"
+msgstr "Previous"
+
+#: lib/plugins/eab-events_weekly_calendar.php:125
+msgid "Nächste"
+msgstr "Next"
+
+#: lib/plugins/eab-events_weekly_calendar.php:336
+msgid " "
+msgstr " "
+
+#: lib/plugins/eab-events_weekly_calendar.php:346
+#, fuzzy
+msgid "WMittwoch"
+msgstr "WWednesday"
+
+#: lib/plugins/eab-events_weekly_calendar.php:420
+#, fuzzy
+msgid "Wöchentlicher Ereigniskalender Einstellungen"
+msgstr "Weekly event calendar settings"
+
+#: lib/plugins/eab-events_weekly_calendar.php:423
+#, fuzzy
+msgid "Kalenderstartstunde"
+msgstr "Calendar start hour"
+
+#: lib/plugins/eab-events_weekly_calendar.php:425
+#, fuzzy
+msgid ""
+"Gib die Stunde des Tages ein. Der Kalender beginnt im 24-Stunden-Format ohne "
+"morgens/abends und Minuten, z.B: 13. Standard ist 10 (10 Uhr)."
+msgstr ""
+"Enter the hour of the day. The calendar starts in 24-hour format without a."
+"m./p.m. and minutes, e.g. 13. The default is 10 (10 a.m.)."
+
+#: lib/plugins/eab-events_weekly_calendar.php:429
+#, fuzzy
+msgid "Kalenderendstunde"
+msgstr "Calendar end hour"
+
+#: lib/plugins/eab-events_weekly_calendar.php:431
+#, fuzzy
+msgid ""
+"Der Kalender endet im 24-Stunden-Format ohne morgens/abends und Minuten, z."
+"B: 22. Standard ist 24 (12 Uhr)."
+msgstr ""
+"The calendar ends in 24-hour format without a.m./p.m. and minutes, e.g. 22. "
+"The default is 24 (12 o'clock)."
+
+#: lib/plugins/eab-events_weekly_calendar.php:435
+#, fuzzy
+msgid "Kalenderschrittintervall (Minuten)"
+msgstr "Calendar step interval (minutes)"
+
+#: lib/plugins/eab-events_weekly_calendar.php:437
+#, fuzzy
+msgid ""
+"Gib die Anzahl der Minuten ein, die bestimmen, wie viele Zeilen die "
+"Kalendertabelle enthalten soll. Die Standardeinstellung ist 120 (2 Stunden). "
+"Der minimal zulässige Wert ist 10. Zu kleine Werte können zu einer langen "
+"Tabelle führen."
+msgstr ""
+"Enter the number of minutes that determine how many rows the calendar table "
+"should contain. The default setting is 120 (2 hours). The minimum "
+"permissible value is 10. Values that are too small can lead to a long table."
+
+#: lib/plugins/eab-events_weekly_calendar.php:441
+#, fuzzy
+msgid "Anzeige im Tooltip"
+msgstr "Display in the tooltip"
+
+#: lib/plugins/eab-events_weekly_calendar.php:443
+#, fuzzy
+msgid "Veranstaltungsort, Miniaturansicht, Startdatum und Inhalt"
+msgstr "Venue, thumbnail, start date and content"
+
+#: lib/plugins/eab-events_weekly_calendar.php:444
+#, fuzzy
+msgid "Autorenname, Avatar und Bio"
+msgstr "Author name, avatar and bio"
+
+#: lib/plugins/eab-events_weekly_calendar.php:447
+#, fuzzy
+msgid ""
+"Wähle aus, welche Elemente in der QuickInfo angezeigt werden sollen, d. H. "
+"Wenn der Besucher die Maus über das Ereignis bewegt."
+msgstr ""
+"Select which elements should be displayed in the tooltip, i.e. when the "
+"visitor moves the mouse over the event."
+
+#: lib/plugins/eab-export-add_to_gcal.php:83
+#, fuzzy
+msgid "Google Kalender Export"
+msgstr "Google Calendar Export"
+
+#: lib/plugins/eab-export-ical.php:82
+#, fuzzy
+msgid "iCal Export Einstellungen"
+msgstr "iCal export settings"
+
+#: lib/plugins/eab-export-ical.php:85
+#, fuzzy
+msgid "Exportierte Ereigniszeiten"
+msgstr "Exported event times"
+
+#: lib/plugins/eab-export-ical.php:89
+#, fuzzy
+msgid "Greenwich Mittlere Zeit (GMT)"
+msgstr "Greenwich Mean Time (GMT)"
+
+#: lib/plugins/eab-export-ical.php:94
+#, fuzzy
+msgid "Ortszeit (wie eingegeben)"
+msgstr "Local time (as entered)"
+
+#: lib/plugins/eab-export-ical.php:99
+#, fuzzy
+msgid "Ortszeit (wie eingegeben) mit Zeitzoneninformationen"
+msgstr "Local time (as entered) with time zone information"
+
+#: lib/plugins/eab-export-ical.php:104
+#, fuzzy
+msgid "Füge automatisch Exportlinks zu Ereignissen und Archiven hinzu"
+msgstr "Automatically add export links to events and archives"
+
+#: lib/plugins/eab-export-ical.php:108
+#, fuzzy
+msgid "Automatisch hinzugefügte Links sind Download-Links"
+msgstr "Automatically added links are download links"
+
+#: lib/plugins/eab-export-ical.php:125
+#, fuzzy
+msgid "Apple Kalender Export"
+msgstr "Apple Calendar Export"
+
+#: lib/plugins/eab-export-ical.php:171
+#, fuzzy
+msgid "Kein Ereignis zum Exportieren"
+msgstr "No event to export"
+
+#: lib/plugins/eab-export-ical.php:193
+#, fuzzy
+msgid "Not supported"
+msgstr "Not supported"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:134
+#, fuzzy
+msgid "Optionen für Gästelisten"
+msgstr "Options for guest lists"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:137
+#, fuzzy
+msgid "Gastavatare"
+msgstr "Guest avatars"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:140
+#, fuzzy
+msgid "Zeige keine Avatare"
+msgstr "Do not show avatars"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:141
+#, fuzzy
+msgid "Benutzeravatare in RSVP-Listen ausblenden"
+msgstr "Hide user avatars in RSVP lists"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:144
+#, fuzzy
+msgid "Zeige kleine Avatare"
+msgstr "Show small avatars"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:145
+#, fuzzy
+msgid "Zeige kleine Avatare in RSVP-Listen"
+msgstr "Show small avatars in RSVP lists"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:148
+#, fuzzy
+msgid "Mittlere Avatare anzeigen"
+msgstr "Show medium avatars"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:149
+#, fuzzy
+msgid "Mittlere Avatare in RSVP-Listen anzeigen"
+msgstr "Show medium avatars in RSVP lists"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:152
+#, fuzzy
+msgid "Zeige große Avatare"
+msgstr "Show large avatars"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:153
+#, fuzzy
+msgid "Zeige große Avatare in RSVP-Listen"
+msgstr "Show large avatars in RSVP lists"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:157
+#, fuzzy
+msgid "Gastnamen"
+msgstr "Guest names"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:160
+#, fuzzy
+msgid "Namen nicht anzeigen"
+msgstr "Do not display names"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:161
+#, fuzzy
+msgid "Verberge Namen in RSVP-Listen"
+msgstr "Hide names in RSVP lists"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:164
+#, fuzzy
+msgid "Anzeigenamen anzeigen"
+msgstr "Show display names"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:165
+#, fuzzy
+msgid "Anzeigen von Benutzernamen in RSVP-Listen"
+msgstr "Displaying user names in RSVP lists"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:168
+#, fuzzy
+msgid "Benutzername anzeigen"
+msgstr "Show username"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:169
+#, fuzzy
+msgid "Benutzernamen in RSVP-Listen anzeigen"
+msgstr "Display user names in RSVP lists"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:172
+#, fuzzy
+msgid "Vorname anzeigen"
+msgstr "Show first name"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:173
+#, fuzzy
+msgid "Benutzer-Vornamen in RSVP-Listen anzeigen"
+msgstr "Display user first names in RSVP lists"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:176
+#, fuzzy
+msgid "Familienname anzeigen"
+msgstr "Show family name"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:177
+#, fuzzy
+msgid "Zeigt Familiennamen der Benutzer in den RSVP-Listen an"
+msgstr "Displays surnames of users in the RSVP lists"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:180
+#, fuzzy
+msgid "Vollständigen Namen anzeigen, Vorname zuerst"
+msgstr "Show full name, first name first"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:181
+#, fuzzy
+msgid ""
+"Zeigt vollständigen Benutzernamen in RSVP-Listen als Vorname Nachname an"
+msgstr "Displays full user name in RSVP lists as first name last name"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:184
+#, fuzzy
+msgid "Vollständigen Namen anzeigen, Familienname zuerst"
+msgstr "Show full name, family name first"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:185
+#, fuzzy
+msgid ""
+"Zeigt den vollständigen Benutzernamen in RSVP-Listen als Nachname Vorname an"
+msgstr "Displays the full user name in RSVP lists as last name first name"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:189
+#, fuzzy
+msgid "Zeige hübsche Gästelistennamen in ..."
+msgstr "Show pretty guest list names in ..."
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:193
+#, fuzzy
+msgid "Admin-Bereich für Veranstaltungen"
+msgstr "Admin area for events"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:194
+#: lib/plugins/eab-guest_list-show_additional_info.php:199
+#, fuzzy
+msgid "Standardmäßig werden hier die Benutzernamen angezeigt"
+msgstr "The user names are displayed here by default"
+
+#: lib/plugins/eab-guest_list-show_additional_info.php:198
+#, fuzzy
+msgid "Ereignisse exportieren Dateien"
+msgstr "Export events files"
+
+#: lib/plugins/eab-import-facebook_events-main.php:182
+#: lib/plugins/eab-import-google_calendar.php:189
+#: lib/plugins/eab-rsvps-scheduled_rsvp_reset.php:78
+msgid "Stunde"
+msgstr "Hour"
+
+#: lib/plugins/eab-import-facebook_events-main.php:183
+#: lib/plugins/eab-import-google_calendar.php:190
+#: lib/plugins/eab-rsvps-scheduled_rsvp_reset.php:79
+#, fuzzy
+msgid "Zwei Stunden"
+msgstr "Two hours"
+
+#: lib/plugins/eab-import-facebook_events-main.php:184
+#: lib/plugins/eab-import-google_calendar.php:191
+#: lib/plugins/eab-rsvps-scheduled_rsvp_reset.php:80
+#, fuzzy
+msgid "Drei Stunden"
+msgstr "Three hours"
+
+#: lib/plugins/eab-import-facebook_events-main.php:185
+#: lib/plugins/eab-import-google_calendar.php:192
+#: lib/plugins/eab-rsvps-scheduled_rsvp_reset.php:81
+#, fuzzy
+msgid "Sechs Stunden"
+msgstr "Six hours"
+
+#: lib/plugins/eab-import-facebook_events-main.php:186
+#, fuzzy
+msgid "Zwölf Stunde"
+msgstr "Twelve hour"
+
+#: lib/plugins/eab-import-facebook_events-main.php:201
+#, fuzzy
+msgid "Facebook Events Import Einstellungen"
+msgstr "Facebook Events Import Settings"
+
+#: lib/plugins/eab-import-facebook_events-main.php:207
+#, fuzzy
+msgid "App ID"
+msgstr "App ID"
+
+#: lib/plugins/eab-import-facebook_events-main.php:207
+#, fuzzy
+msgid "Gib hier Deine App-ID ein."
+msgstr "Enter your app ID here."
+
+#: lib/plugins/eab-import-facebook_events-main.php:215
+#, fuzzy
+msgid "App secret"
+msgstr "App secret"
+
+#: lib/plugins/eab-import-facebook_events-main.php:215
+#, fuzzy
+msgid "Gib hier Deine App-Geheimnummer ein."
+msgstr "Enter your app secret number here."
+
+#: lib/plugins/eab-import-facebook_events-main.php:224
+#: lib/plugins/eab-import-google_calendar.php:235
+msgid "Reset"
+msgstr "Reset"
+
+#: lib/plugins/eab-import-facebook_events-main.php:225
+#, fuzzy
+msgid ""
+"Denke daran, auch die App-Berechtigungen zu widerrufen <a href=\"http://www."
+"facebook.com/settings?tab=applications\" target=\"_blank\">hier</a>."
+msgstr ""
+"Remember to also revoke the app permissions <a href=\"http://www.facebook."
+"com/settings?tab=applications\" target=\"_blank\">here</a>."
+
+#: lib/plugins/eab-import-facebook_events-main.php:227
+#: lib/plugins/eab-import-google_calendar.php:238
+#, fuzzy
+msgid "Authentifizieren"
+msgstr "Authenticate"
+
+#: lib/plugins/eab-import-facebook_events-main.php:229
+#: lib/plugins/eab-import-google_calendar.php:240
+#, fuzzy
+msgid "Gib Deine API-Informationen ein und speichere zuerst die Einstellungen."
+msgstr "Enter your API information and save the settings first."
+
+#: lib/plugins/eab-import-facebook_events-main.php:235
+#, fuzzy
+msgid "Importiere Ereignisse für diese Facebook-Benutzer-ID:"
+msgstr "Import events for this Facebook user ID:"
+
+#: lib/plugins/eab-import-facebook_events-main.php:237
+#, fuzzy
+msgid "Ändere dieses Feld nur, wenn Du sicher bist, was Du tust"
+msgstr "Only change this field if you are sure of what you are doing"
+
+#: lib/plugins/eab-import-facebook_events-main.php:240
+#, fuzzy
+msgid "Führe den Importer aus:"
+msgstr "Run the importer:"
+
+#: lib/plugins/eab-import-facebook_events-main.php:248
+#: lib/plugins/eab-import-google_calendar.php:268
+#, fuzzy
+msgid "Weise diesem Benutzer importierte Ereignisse zu:"
+msgstr "Assign imported events to this user:"
+
+#: lib/plugins/eab-import-facebook_events-main.php:254
+#: lib/plugins/eab-import-google_calendar.php:274
+#, fuzzy
+msgid ""
+"Wähle den Benutzer aus, der als importierter Ereignis-Host angezeigt werden "
+"soll."
+msgstr "Select the user to be displayed as the imported event host."
+
+#: lib/plugins/eab-import-facebook_events-main.php:258
+msgid "Einstellungen speichern"
+msgstr "Save settings"
+
+#: lib/plugins/eab-import-facebook_events.php:21
+#, fuzzy
+msgid ""
+"Du benötigst PHP 5.4 oder höher, um die Erweiterung <b>Import: Facebook "
+"Events</b> verwenden zu können."
+msgstr ""
+"You need PHP 5.4 or higher to be able to use the <b>Import: Facebook Events</"
+"b> extension."
+
+#: lib/plugins/eab-import-google_calendar.php:193
+#: lib/plugins/eab-rsvps-scheduled_rsvp_reset.php:82
+#, fuzzy
+msgid "Zwölf Stunden"
+msgstr "Twelve hours"
+
+#: lib/plugins/eab-import-google_calendar.php:211
+#, fuzzy
+msgid "Google Calendar Import Einstellungen"
+msgstr "Google Calendar import settings"
+
+#: lib/plugins/eab-import-google_calendar.php:215
+#, fuzzy
+msgid "Erstelle ein Projekt in der Google API Console"
+msgstr "Create a project in the Google API Console"
+
+#: lib/plugins/eab-import-google_calendar.php:216
+#, fuzzy
+msgid "Aktiviere auf der Registerkarte \"Dienste\" die Option \"Kalender-API\""
+msgstr "Activate the \"Calendar API\" option on the \"Services\" tab"
+
+#: lib/plugins/eab-import-google_calendar.php:217
+#, fuzzy, php-format
+msgid ""
+"Klicke unter \"API-Zugriff\" auf \"oAuth-Clientzugriff erstellen\". Gib "
+"Deine Daten ein und verwende diese als \"Authorized Redirect URIs\".: <code>"
+"%s</code>"
+msgstr ""
+"Click on \"Create oAuth client access\" under \"API access\". Enter your "
+"data and use it as \"Authorized Redirect URIs\": <code>%s</code>"
+
+#: lib/plugins/eab-import-google_calendar.php:218
+#, fuzzy
+msgid ""
+"Kopiere Deine Client-ID und geheime Client-ID und füge sie in die folgenden "
+"Felder ein"
+msgstr ""
+"Copy your client ID and secret client ID and paste them into the following "
+"fields"
+
+#: lib/plugins/eab-import-google_calendar.php:219
+#, fuzzy
+msgid ""
+"Speichere Deine Plugin-Einstellungen und klicke auf die Schaltfläche "
+"\"Authentifizieren\""
+msgstr "Save your plugin settings and click on the \"Authenticate\" button"
+
+#: lib/plugins/eab-import-google_calendar.php:224
+msgid "Client ID"
+msgstr "Client ID"
+
+#: lib/plugins/eab-import-google_calendar.php:226
+#, fuzzy
+msgid "Gib hier Deine Client-ID ein."
+msgstr "Enter your client ID here."
+
+#: lib/plugins/eab-import-google_calendar.php:229
+#, fuzzy
+msgid "Client secret"
+msgstr "Client secret"
+
+#: lib/plugins/eab-import-google_calendar.php:231
+#, fuzzy
+msgid "Gib hier Deine Client-Geheimnummer ein."
+msgstr "Enter your client secret number here."
+
+#: lib/plugins/eab-import-google_calendar.php:236
+#, fuzzy
+msgid ""
+"Denke daran, auch das Offline-Zugriffstoken zu widerrufen <a href=\"https://"
+"accounts.google.com/IssuedAuthSubTokens\" target=\"_blank\">hier</a>."
+msgstr ""
+"Remember to also revoke the offline access token <a href=\"https://accounts."
+"google.com/IssuedAuthSubTokens\" target=\"_blank\">here</a>."
+
+#: lib/plugins/eab-import-google_calendar.php:246
+#, fuzzy
+msgid "Ich möchte Ereignisse aus diesen Kalendern importieren:"
+msgstr "I would like to import events from these calendars:"
+
+#: lib/plugins/eab-import-google_calendar.php:247
+#, fuzzy
+msgid "Kalenderliste aktualisieren"
+msgstr "Update calendar list"
+
+#: lib/plugins/eab-import-google_calendar.php:248
+#, fuzzy
+msgid "WähleKalender aus, die Du importieren möchtest."
+msgstr "Select the calendars you want to import."
+
+#: lib/plugins/eab-import-google_calendar.php:260
+#, fuzzy
+msgid "Importer ausführen alle:"
+msgstr "Execute all importers:"
+
+#: lib/plugins/eab-import-google_calendar.php:279
+#, fuzzy
+msgid "Versuche Ereigniszeiten in lokale WordPress-Zeit umzuwandeln"
+msgstr "Attempts to convert event times to local WordPress time"
+
+#: lib/plugins/eab-import-meetup.php:159 lib/plugins/eab-import-meetup.php:195
+#, fuzzy
+msgid ""
+"Bitte konfiguriere die API-Informationen und speichere zuerst die "
+"Einstellungen"
+msgstr "Please configure the API information and save the settings first"
+
+#: lib/plugins/eab-import-meetup.php:164
+#, fuzzy
+msgid "Keine zu importierenden Themen"
+msgstr "No topics to be imported"
+
+#: lib/plugins/eab-import-meetup.php:184
+#, fuzzy, php-format
+msgid "%s Themen erfolgreich als Ereigniskategorien importiert"
+msgstr "%s Topics successfully imported as event categories"
+
+#: lib/plugins/eab-import-meetup.php:200 lib/plugins/eab-import-meetup.php:235
+#, fuzzy
+msgid "Es wurden keine Ereignisse importiert"
+msgstr "No events have been imported"
+
+#: lib/plugins/eab-import-meetup.php:206 lib/plugins/eab-import-meetup.php:241
+#, fuzzy
+msgid "Keine Ereignisse importiert."
+msgstr "No events imported."
+
+#: lib/plugins/eab-import-meetup.php:215 lib/plugins/eab-import-meetup.php:250
+#, fuzzy, php-format
+msgid "%s Ereignisse erfolgreich importiert"
+msgstr "%s Events successfully imported"
+
+#: lib/plugins/eab-import-meetup.php:230
+msgid "Ungültiger Standort"
+msgstr "Invalid location"
+
+#: lib/plugins/eab-import-meetup.php:338
+#, fuzzy
+msgid "Meetup.com import Einstellungen"
+msgstr "Meetup.com import settings"
+
+#: lib/plugins/eab-import-meetup.php:344
+#, fuzzy
+msgid "API Schlüssel"
+msgstr "API key"
+
+#: lib/plugins/eab-import-meetup.php:349
+#, fuzzy
+msgid "Meetup.com Member ID"
+msgstr "Meetup.com Member ID"
+
+#: lib/plugins/eab-import-meetup.php:356
+#, fuzzy
+msgid "Importiere meine Events"
+msgstr "Import my events"
+
+#: lib/plugins/eab-import-meetup.php:357
+#, fuzzy
+msgid "Importiere Ereignisse in der Nähe meines aktuellen Standorts"
+msgstr "Import events near my current location"
+
+#: lib/plugins/eab-import-meetup.php:358
+#, fuzzy
+msgid "Importiere meine Themen als Ereigniskategorien"
+msgstr "Import my topics as event categories"
+
+#: lib/plugins/eab-import-meetup.php:361
+#, fuzzy
+msgid ""
+"Wichtig: Um Ereignisse in der Nähe Deines aktuellen Standorts zu "
+"importieren, benötigst Du SSL"
+msgstr "Important: To import events near your current location, you need SSL"
+
+#: lib/plugins/eab-import-meetup.php:366
+#, fuzzy
+msgid ""
+"Fülle zunächst die obigen API-Informationen aus und speichere Deine "
+"Einstellungen"
+msgstr "First fill in the API information above and save your settings"
+
+#: lib/plugins/eab-import-meetup.php:385 lib/plugins/eab-import-meetup.php:397
+#: lib/plugins/eab-import-meetup.php:414
+#, fuzzy
+msgid "Bitte einen Augenblick..."
+msgstr "One moment please..."
+
+#: lib/plugins/eab-import-meetup.php:390 lib/plugins/eab-import-meetup.php:406
+msgid "Error"
+msgstr "Error"
+
+#: lib/plugins/eab-maps-event_maps_options.php:39
+#, fuzzy, php-format
+msgid ""
+"Du benötigst das <a href='%s'>PS-Gmaps</a> Plugin installiert and aktiviert "
+"um diese Erweiterung aktivieren zu können"
+msgstr ""
+"You need the <a href='%s'>PS-Gmaps</a> plugin installed and activated to "
+"enable this extension"
+
+#: lib/plugins/eab-maps-event_maps_options.php:56
+#, fuzzy
+msgid "ROADMAP"
+msgstr "ROADMAP"
+
+#: lib/plugins/eab-maps-event_maps_options.php:57
+#, fuzzy
+msgid "SATELLITE"
+msgstr "SATELLITE"
+
+#: lib/plugins/eab-maps-event_maps_options.php:58
+#, fuzzy
+msgid "HYBRID"
+msgstr "HYBRID"
+
+#: lib/plugins/eab-maps-event_maps_options.php:59
+#, fuzzy
+msgid "TERRAIN"
+msgstr "TERRAIN"
+
+#: lib/plugins/eab-maps-event_maps_options.php:62
+msgid "Metrisch"
+msgstr "Metric"
+
+#: lib/plugins/eab-maps-event_maps_options.php:63
+#, fuzzy
+msgid "Imperial"
+msgstr "Imperial"
+
+#: lib/plugins/eab-maps-event_maps_options.php:68
+#, fuzzy
+msgid "Optionen für Ereigniskarten"
+msgstr "Options for event cards"
+
+#: lib/plugins/eab-maps-event_maps_options.php:70
+#, fuzzy
+msgid ""
+"Alle Einstellungen, die Du hier leer lässt, werden von den "
+"Standardeinstellungen des Google Maps-Plugins übernommen."
+msgstr ""
+"All settings that you leave blank here are taken from the default settings "
+"of the Google Maps plugin."
+
+#: lib/plugins/eab-maps-event_maps_options.php:73
+#, fuzzy
+msgid "Map Größe"
+msgstr "Map size"
+
+#: lib/plugins/eab-maps-event_maps_options.php:76
+msgid "Breite:"
+msgstr "宽度:"
+
+#: lib/plugins/eab-maps-event_maps_options.php:81
+msgid "Höhe:"
+msgstr "Height:"
+
+#: lib/plugins/eab-maps-event_maps_options.php:87
+#, fuzzy
+msgid "Kartenaussehen"
+msgstr "Card appearance"
+
+#: lib/plugins/eab-maps-event_maps_options.php:96
+msgid "Zoom:"
+msgstr "Zoom:"
+
+#: lib/plugins/eab-maps-event_maps_options.php:101
+#, fuzzy
+msgid "Zahlenwert"
+msgstr "Numerical value"
+
+#: lib/plugins/eab-maps-event_maps_options.php:107
+msgid "Typ:"
+msgstr "Type:"
+
+#: lib/plugins/eab-maps-event_maps_options.php:122
+#, fuzzy
+msgid "Einheiten:"
+msgstr "Units:"
+
+#: lib/plugins/eab-maps-event_maps_options.php:139
+#, fuzzy
+msgid "Bilder anzeigen"
+msgstr "Show pictures"
+
+#: lib/plugins/eab-payment-multiple_prices.php:101
+#, fuzzy
+msgid "Preisstufe hinzufügen"
+msgstr "Add price level"
+
+#: lib/plugins/eab-payment-multiple_prices.php:161
+#, fuzzy
+msgid "Bitte wähle die Preisstufe"
+msgstr "Please select the price level"
+
+#: lib/plugins/eab-payment-multiple_prices.php:171
+#, fuzzy, php-format
+msgid "Ich möchte %s Tickets kaufen."
+msgstr "I would like to buy %s tickets."
+
+#: lib/plugins/eab-payment-psecommerce.php:69
+#, fuzzy, php-format
+msgid ""
+"Dieses Produkt wird verwendet als Eintrittszahlung für <a href=\"%s\">%s</a>."
+msgstr "This product is used as an entry payment for <a href=\"%s\">%s</a>."
+
+#: lib/plugins/eab-payment-psecommerce.php:87
+#, fuzzy
+msgid ""
+"Das <a href=\"https://n3rds.work/piestingtal_source/psecommerce-shopsystem/"
+"\">PS-eCommerce</a> Plugin muss installiert und aktiviert sein, damit es "
+"funktioniert"
+msgstr ""
+"The <a href=\"https://n3rds.work/piestingtal_source/psecommerce-shopsystem/"
+"\">PS-eCommerce</a> plugin must be installed and activated for it to work"
+
+#: lib/plugins/eab-payment-psecommerce.php:110
+#, fuzzy
+msgid "Zahlung mit PS-eCommerce Artikeln"
+msgstr "Payment with PS-eCommerce articles"
+
+#: lib/plugins/eab-payment-psecommerce.php:113
+#, fuzzy
+msgid "Beschränke die Produktauswahl auf diese Shopkategorie"
+msgstr "Restrict the product selection to this store category"
+
+#: lib/plugins/eab-payment-psecommerce.php:122
+#, fuzzy
+msgid "Keine Shopkategorien"
+msgstr "No store categories"
+
+#: lib/plugins/eab-payment-psecommerce.php:124
+#, fuzzy
+msgid ""
+"Verwende diese Einstellung, um den Umfang Deiner Artikel einzuschränken, die "
+"als Ereigniszahlungen verwendet werden können."
+msgstr ""
+"Use this setting to limit the scope of your items that can be used as event "
+"payments."
+
+#: lib/plugins/eab-rsvps-additional_registration_fields.php:95
+#: lib/plugins/eab-rsvps-rsvp_with_email.php:58
+#, fuzzy
+msgid "Ein Pflichtfeld fehlt."
+msgstr "One mandatory field is missing."
+
+#: lib/plugins/eab-rsvps-additional_registration_fields.php:181
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: lib/plugins/eab-rsvps-additional_registration_fields.php:185
+#, fuzzy
+msgid "Zusätzliche Felder"
+msgstr "Additional fields"
+
+#: lib/plugins/eab-rsvps-additional_registration_fields.php:198
+#, fuzzy
+msgid "E-mail Macro:"
+msgstr "E-mail Macro:"
+
+#: lib/plugins/eab-rsvps-additional_registration_fields.php:199
+#, fuzzy
+msgid "Dies ist der Platzhalter, den Du in Deinen E-Mails verwenden kannst."
+msgstr "This is the placeholder that you can use in your emails."
+
+#: lib/plugins/eab-rsvps-additional_registration_fields.php:207
+#, fuzzy
+msgid "Neues Feld hinzufügen"
+msgstr "Add new field"
+
+#: lib/plugins/eab-rsvps-additional_registration_fields.php:209
+#, fuzzy
+msgid "Feldbezeichnung:"
+msgstr "Field description:"
+
+#: lib/plugins/eab-rsvps-additional_registration_fields.php:213
+#, fuzzy
+msgid "Feldtyp:"
+msgstr "Field type:"
+
+#: lib/plugins/eab-rsvps-additional_registration_fields.php:222
+#, fuzzy
+msgid "Benötigt?"
+msgstr "Needed?"
+
+#: lib/plugins/eab-rsvps-additional_registration_fields.php:227
+#, fuzzy
+msgid "Zum RSVP per E-Mail hinzufügen?"
+msgstr "Add to RSVP by e-mail?"
+
+#: lib/plugins/eab-rsvps-additional_registration_fields.php:234
+msgid "Optionen"
+msgstr "Options"
+
+#: lib/plugins/eab-rsvps-additional_registration_fields.php:238
+#, fuzzy
+msgid "Füge zusätzliche Felder in den Datenexport ein"
+msgstr "Add additional fields to the data export"
+
+#: lib/plugins/eab-rsvps-email-non_paid.php:38
+#, fuzzy
+msgid "Sende eine Erinnerungs-E-Mail an alle nicht bezahlten Besucher"
+msgstr "Send a reminder email to all unpaid visitors"
+
+#: lib/plugins/eab-rsvps-email-non_paid.php:40
+#, fuzzy
+msgid "Etwas ist schief gelaufen"
+msgstr "Something has gone wrong"
+
+#: lib/plugins/eab-rsvps-email-non_paid.php:41
+#, fuzzy
+msgid "Anzahl der gesendeten Nachrichten:"
+msgstr "Number of messages sent:"
+
+#: lib/plugins/eab-rsvps-email-non_paid.php:172
+#, fuzzy
+msgid "Erinnerung E-Mail-Einstellungen für nicht bezahlte Mitglieder"
+msgstr "Reminder e-mail settings for non-paid members"
+
+#: lib/plugins/eab-rsvps-email-non_paid.php:175
+#, fuzzy
+msgid "Email von:"
+msgstr "Email from:"
+
+#: lib/plugins/eab-rsvps-email-non_paid.php:177
+#, fuzzy
+msgid ""
+"Dies ist die Absenderadresse für die Erinnerungs-E-Mails für nicht bezahlte "
+"Mitglieder"
+msgstr "This is the sender address for the reminder e-mails for unpaid members"
+
+#: lib/plugins/eab-rsvps-email-non_paid.php:180
+#: lib/plugins/eab-rsvps-rsvp_email.php:127
+#: lib/plugins/eab-rsvps-rsvp_email_me.php:215
+msgid "E-Mail Betreff"
+msgstr "E-mail subject"
+
+#: lib/plugins/eab-rsvps-email-non_paid.php:191
+#, fuzzy, php-format
+msgid ""
+"Du kannst diese Makros in Ihrem Betreff und Nachrichtentext verwenden: <code>"
+"%s</code>"
+msgstr ""
+"You can use these macros in your subject and message text: <code>%s</code>"
+
+#: lib/plugins/eab-rsvps-email-non_paid.php:194
+#: lib/plugins/eab-rsvps-rsvp_email.php:141
+#: lib/plugins/eab-rsvps-rsvp_email_me.php:229
+msgid "Vorschau"
+msgstr "Preview"
+
+#: lib/plugins/eab-rsvps-email-non_paid.php:195
+#: lib/plugins/eab-rsvps-rsvp_email.php:142
+#, fuzzy
+msgid "Verwenden dieser Ereignisdaten:"
+msgstr "Use this event data:"
+
+#: lib/plugins/eab-rsvps-email-non_paid.php:218
+#, fuzzy
+msgid "Bitte warten... "
+msgstr "Please wait..."
+
+#: lib/plugins/eab-rsvps-rsvp_email.php:114
+#, fuzzy
+msgid "RSVP Email Einstellungen"
+msgstr "RSVP email settings"
+
+#: lib/plugins/eab-rsvps-rsvp_email.php:117
+#, fuzzy
+msgid "Vom E-Mail-Namen"
+msgstr "From the e-mail name"
+
+#: lib/plugins/eab-rsvps-rsvp_email.php:118
+#, fuzzy
+msgid "Dies ist der Name, von dem die RSVP-E-Mail gesendet wird"
+msgstr "This is the name from which the RSVP email is sent"
+
+#: lib/plugins/eab-rsvps-rsvp_email.php:123
+#, fuzzy
+msgid "Dies ist die Adresse, von der aus die RSVP-E-Mail gesendet wird"
+msgstr "This is the address from which the RSVP e-mail is sent"
+
+#: lib/plugins/eab-rsvps-rsvp_email.php:138
+#: lib/plugins/eab-rsvps-rsvp_email_me.php:226
+#, fuzzy, php-format
+msgid ""
+"Du kannst diese Makros in Betreff und Nachrichtentext verwenden: <code>%s</"
+"code>"
+msgstr ""
+"You can use these macros in the subject and message text: <code>%s</code>"
+
+#: lib/plugins/eab-rsvps-rsvp_email.php:165
+#: lib/plugins/eab-rsvps-rsvp_email_me.php:253
+#, fuzzy
+msgid "Einen Augenblick... "
+msgstr "Just a moment..."
+
+#: lib/plugins/eab-rsvps-rsvp_email_me.php:27
+#, fuzzy
+msgid "Der Benutzer hat für die Veranstaltung bezahlt."
+msgstr "The user has paid for the event."
+
+#: lib/plugins/eab-rsvps-rsvp_email_me.php:28
+#, fuzzy
+msgid "Der Benutzer hat die Veranstaltung nicht bezahlt."
+msgstr "The user has not paid for the event."
+
+#: lib/plugins/eab-rsvps-rsvp_email_me.php:174
+#, fuzzy
+msgid "Einstellungen für die RSVP-Benachrichtigung per E-Mail"
+msgstr "Settings for RSVP notification by e-mail"
+
+#: lib/plugins/eab-rsvps-rsvp_email_me.php:177
+#, fuzzy
+msgid "Sende ein Update"
+msgstr "Send an update"
+
+#: lib/plugins/eab-rsvps-rsvp_email_me.php:182
+#, fuzzy
+msgid "Auf alle positiven RSVPs"
+msgstr "On all positive RSVPs"
+
+#: lib/plugins/eab-rsvps-rsvp_email_me.php:187
+#, fuzzy
+msgid "Wenn der Benutzer für eine bezahlte Veranstaltung bezahlt"
+msgstr "If the user pays for a paid event"
+
+#: lib/plugins/eab-rsvps-rsvp_email_me.php:191
+msgid "Benachrichtigen"
+msgstr "Notify"
+
+#: lib/plugins/eab-rsvps-rsvp_email_me.php:196
+#, fuzzy
+msgid "Seitenadministrator"
+msgstr "Site administrator"
+
+#: lib/plugins/eab-rsvps-rsvp_email_me.php:201
+#, fuzzy
+msgid "Eventautor"
+msgstr "Event author"
+
+#: lib/plugins/eab-rsvps-rsvp_email_me.php:205
+#, fuzzy
+msgid "E-Mail von Namen"
+msgstr "E-mail from name"
+
+#: lib/plugins/eab-rsvps-rsvp_email_me.php:210
+#, fuzzy
+msgid "Email von"
+msgstr "Email from"
+
+#: lib/plugins/eab-rsvps-rsvp_email_me.php:230
+#, fuzzy
+msgid "using this event data:"
+msgstr "using this event data:"
+
+#: lib/plugins/eab-rsvps-rsvp_with_email.php:30
+#, fuzzy
+msgid ""
+"Bei der Verarbeitung Deiner Anfrage ist ein Fehler aufgetreten. Bitte lade "
+"die Seite neu und versuche es erneut."
+msgstr ""
+"An error occurred while processing your request. Please reload the page and "
+"try again."
+
+#: lib/plugins/eab-rsvps-rsvp_with_email.php:36
+#, fuzzy
+msgid "Bitte eine E-Mailadresse angeben."
+msgstr "Please enter an e-mail address."
+
+#: lib/plugins/eab-rsvps-rsvp_with_email.php:40
+#, fuzzy
+msgid "Keine gültige Emailadresse."
+msgstr "No valid email address."
+
+#: lib/plugins/eab-rsvps-rsvp_with_email.php:51
+#, fuzzy, php-format
+msgid ""
+"Die E-Mail-Adresse ist bereits vorhanden. Bitte <a href=\"%s\">anmelden</a> "
+"und RSVP zu diesem Ereignis."
+msgstr ""
+"The e-mail address already exists. Please <a href=\"%s\">register</a> and "
+"RSVP to this event."
+
+#: lib/plugins/eab-rsvps-scheduled_rsvp_reset.php:98
+#, fuzzy
+msgid "Einstellungen für das automatische Zurücksetzen des RSVP-Status"
+msgstr "Settings for automatically resetting the RSVP status"
+
+#: lib/plugins/eab-rsvps-scheduled_rsvp_reset.php:101
+#, fuzzy
+msgid "Plane Überprüfungen alle:"
+msgstr "Schedule checks all:"
+
+#: lib/plugins/eab-rsvps-scheduled_rsvp_reset.php:107
+#, fuzzy
+msgid "Plane Überprüfungen alle"
+msgstr "Schedule checks every"
+
+#: lib/plugins/eab-rsvps-scheduled_rsvp_reset.php:110
+#, fuzzy
+msgid ""
+"Unbezahlte RSVPs, die älter als diese Zeit sind, automatisch zurücksetzen:"
+msgstr "Automatically reset unpaid RSVPs that are older than this time:"
+
+#: lib/plugins/eab-rsvps-scheduled_rsvp_reset.php:116
+#, fuzzy
+msgid "Unbezahlte positive RSVP-Sperrzeit"
+msgstr "Unpaid positive RSVP blocking period"
+
+#: lib/plugins/eab-rsvps-scheduled_rsvp_reset.php:119
+#, fuzzy
+msgid "Anwesenheit vollständig entfernen"
+msgstr "Remove presence completely"
+
+#: lib/plugins/eab-rsvps-scheduled_rsvp_reset.php:121
+#, fuzzy
+msgid ""
+"Standardmäßig setzt das Plugin die Benutzeranwesenheit auf \"Nein\" zurück. "
+"Wähle diese Option, wenn Du stattdessen die Anwesenheitslisten vollständig "
+"entfernen möchtest."
+msgstr ""
+"By default, the plugin resets the user presence to \"No\". Select this "
+"option if you want to completely remove the presence lists instead."
+
+#: lib/plugins/lib/class_eab_mp_bridge.php:232
+#, fuzzy
+msgid "... oder wählen bitte einen Artikel aus"
+msgstr "... or please select an article"
+
+#: lib/plugins/lib/class_eab_mp_bridge.php:234
+#: lib/plugins/lib/class_eab_mp_bridge_legacy.php:163
+#, fuzzy
+msgid "Wähle einen Preisartikel"
+msgstr "Choose a prize item"
+
+#: lib/plugins/lib/class_eab_mp_bridge.php:597
+#, fuzzy
+msgid "Klicke hier, um Dein Ticket zu erwerben"
+msgstr "Click here to purchase your ticket"
+
+#: lib/plugins/lib/class_eab_mp_bridge.php:798
+#, fuzzy
+msgid ""
+"Der Bestellstatus konnte aufgrund eines unerwarteten Fehlers nicht "
+"aktualisiert werden. Bitte versuche es erneut."
+msgstr ""
+"The order status could not be updated due to an unexpected error. Please try "
+"again."
+
+#: lib/plugins/lib/class_eab_mp_bridge_legacy.php:161
+#, fuzzy
+msgid "... oder wähle bitte einen Artikel aus"
+msgstr "... or please select an article"
+
+#: lib/pointers-tutorial/pointer-tutorials.php:416
+#, fuzzy
+msgid "Nächster Tipp &raquo;"
+msgstr "Next tip \""
+
+#: lib/pointers-tutorial/pointer-tutorials.php:428
+#: lib/pointers-tutorial/pointer-tutorials.php:447
+#, fuzzy
+msgid "Verstanden"
+msgstr "Understood"
+
+#: lib/pointers-tutorial/pointer-tutorials.php:429
+#: lib/pointers-tutorial/pointer-tutorials.php:448
+#, fuzzy, php-format
+msgid "Verstanden %s"
+msgstr "Understood %s"
+
+#: lib/pointers-tutorial/pointer-tutorials.php:435
+#, fuzzy
+msgid "&laquo; Vorherige"
+msgstr "\" Previous"
+
+#: lib/pointers-tutorial/pointer-tutorials.php:487
+#, fuzzy, php-format
+msgid "%s: Schritt %d von %d"
+msgstr "%s: Step %d of %d"
+
+#: lib/widgets/Attendees_Widget.class.php:7
+#, fuzzy
+msgid "Teilnehmer einer Veranstaltung anzeigen"
+msgstr "Show participants of an event"
+
+#: lib/widgets/Attendees_Widget.class.php:10
+#: lib/widgets/Attendees_Widget.class.php:28
+#: lib/widgets/Attendees_Widget.class.php:53
+#: lib/widgets/Attendees_Widget.class.php:63
+msgid "Teilnehmer"
+msgstr "Participant"
+
+#: lib/widgets/Attendees_Widget.class.php:13
+#, fuzzy
+msgid "PSE-Veranstaltungsteilnehmer"
+msgstr "PSE event participants"
+
+#: lib/widgets/Attendees_Widget.class.php:69
+#: lib/widgets/Popular_Widget.class.php:113
+#: lib/widgets/Upcoming_Widget.class.php:128
+msgid "Titel"
+msgstr "Title"
+
+#: lib/widgets/Daily_Widget.class.php:9 lib/widgets/Daily_Widget.class.php:25
+#, fuzzy
+msgid "PSE-Tägliche Veranstaltungen"
+msgstr "PSE daily events"
+
+#: lib/widgets/Daily_Widget.class.php:20
+#, fuzzy
+msgid "Liste der täglichen Ereignisse anzeigen"
+msgstr "Show list of daily events"
+
+#: lib/widgets/Daily_Widget.class.php:23
+msgid "Täglich"
+msgstr "Daily"
+
+#: lib/widgets/Daily_Widget.class.php:39
+#, fuzzy
+msgid "Tägliche Veranstaltungen"
+msgstr "Daily events"
+
+#: lib/widgets/Daily_Widget.class.php:98
+#, fuzzy
+msgid "Keine Ereignisse heute."
+msgstr "No events today."
+
+#: lib/widgets/Daily_Widget.class.php:134
+msgid "Title"
+msgstr "Title"
+
+#: lib/widgets/Daily_Widget.class.php:141
+#, fuzzy
+msgid "Date (Must be in format yyyy-mm-dd)"
+msgstr "Date (Must be in format yyyy-mm-dd)"
+
+#: lib/widgets/Daily_Widget.class.php:154
+#, fuzzy
+msgid ""
+"Date is relative (<a href=\"http://www.php.net/manual/en/datetime.formats."
+"relative.php\">strtotime</a>-compatible string)"
+msgstr ""
+"Date is relative<a href=\"http://www.php.net/manual/en/datetime.formats."
+"relative.php\">(strtotime-compatible</a> string)"
+
+#: lib/widgets/Daily_Widget.class.php:162
+#, fuzzy
+msgid "Show dates"
+msgstr "Show dates"
+
+#: lib/widgets/Daily_Widget.class.php:170
+#, fuzzy
+msgid "Show excerpt"
+msgstr "Show excerpt"
+
+#: lib/widgets/Daily_Widget.class.php:173
+#, fuzzy
+msgid ""
+"Limit my excerpt to this many words <small>(<code>0</code> for no limit)</"
+"small>:"
+msgstr ""
+"Limit my excerpt to this many words <small>(<code>0</code> for no limit)</"
+"small>:"
+
+#: lib/widgets/Daily_Widget.class.php:187
+#, fuzzy
+msgid "Show thumbnail"
+msgstr "Show thumbnail"
+
+#: lib/widgets/Daily_Widget.class.php:190
+#: lib/widgets/Popular_Widget.class.php:142
+#: lib/widgets/Upcoming_Widget.class.php:169
+#, fuzzy
+msgid "Limit"
+msgstr "Limit"
+
+#: lib/widgets/Daily_Widget.class.php:199
+#, fuzzy
+msgid "Only Events from this category"
+msgstr "Only Events from this category"
+
+#: lib/widgets/Daily_Widget.class.php:201
+#, fuzzy
+msgid "Any"
+msgstr "Any"
+
+#: lib/widgets/EAB_Month_Navigation.php:7
+#, fuzzy
+msgid "Zeigt ein Formular zur Navigation zu einem anderen Monatsarchiv an."
+msgstr "Displays a form for navigating to another monthly archive."
+
+#: lib/widgets/EAB_Month_Navigation.php:10
+#, fuzzy
+msgid "PSE-Monatliche Navigation im Ereignisarchiv"
+msgstr "PSE monthly navigation in the event archive"
+
+#: lib/widgets/EAB_Month_Navigation.php:19
+#: lib/widgets/EAB_Month_Navigation.php:95
+#, fuzzy
+msgid "Durchsuche"
+msgstr "Search"
+
+#: lib/widgets/EAB_Month_Navigation.php:24
+#: lib/widgets/NetworkUpcoming_Widget.class.php:18
+#: lib/widgets/UpcomingCalendar_Widget.class.php:42
+msgid "Titel:"
+msgstr "Title:"
+
+#: lib/widgets/EAB_Month_Navigation.php:28
+#, fuzzy
+msgid "Jahr ab:"
+msgstr "Year:"
+
+#: lib/widgets/EAB_Month_Navigation.php:32
+#, fuzzy
+msgid "Jahr bis:"
+msgstr "Year to:"
+
+#: lib/widgets/EAB_Month_Navigation.php:36
+#, fuzzy
+msgid "Durchsuche den Schaltflächentext:"
+msgstr "Search the button text:"
+
+#: lib/widgets/EAB_Month_Navigation.php:64
+#, fuzzy
+msgid "Wähle Jahr"
+msgstr "Select year"
+
+#: lib/widgets/EAB_Month_Navigation.php:72
+#, fuzzy
+msgid "Wähle einen Monat"
+msgstr "Choose a month"
+
+#: lib/widgets/EAB_Month_Navigation.php:75
+msgid "Jänner"
+msgstr "January"
+
+#: lib/widgets/EAB_Month_Navigation.php:76
+msgid "Februar"
+msgstr "February"
+
+#: lib/widgets/EAB_Month_Navigation.php:77
+msgid "März"
+msgstr "March"
+
+#: lib/widgets/EAB_Month_Navigation.php:78
+msgid "April"
+msgstr "April"
+
+#: lib/widgets/EAB_Month_Navigation.php:79
+msgid "Mai"
+msgstr "May"
+
+#: lib/widgets/EAB_Month_Navigation.php:80
+msgid "Juni"
+msgstr "June"
+
+#: lib/widgets/EAB_Month_Navigation.php:81
+msgid "Juli"
+msgstr "July"
+
+#: lib/widgets/EAB_Month_Navigation.php:82
+msgid "August"
+msgstr "August"
+
+#: lib/widgets/EAB_Month_Navigation.php:83
+msgid "September"
+msgstr "September"
+
+#: lib/widgets/EAB_Month_Navigation.php:84
+msgid "Oktober"
+msgstr "October"
+
+#: lib/widgets/EAB_Month_Navigation.php:85
+msgid "November"
+msgstr "November"
+
+#: lib/widgets/EAB_Month_Navigation.php:86
+msgid "Dezember"
+msgstr "December"
+
+#: lib/widgets/NetworkUpcoming_Widget.class.php:8
+#, fuzzy
+msgid ""
+"Zeigt eine Liste der bevorstehenden Ereignisse aus Deinem gesamten Netzwerk "
+"an"
+msgstr "Displays a list of upcoming events from your entire network"
+
+#: lib/widgets/NetworkUpcoming_Widget.class.php:10
+#, fuzzy
+msgid "PSE-Netzwerk bevorstehend"
+msgstr "PSE network forthcoming"
+
+#: lib/widgets/NetworkUpcoming_Widget.class.php:23
+#, fuzzy
+msgid "Nur so viele Ereignisse anzeigen:"
+msgstr "Only display this many events:"
+
+#: lib/widgets/NetworkUpcoming_Widget.class.php:61
+#, fuzzy
+msgid "Keine bevorstehenden Ereignisse im Netzwerk"
+msgstr "No upcoming events in the network"
+
+#: lib/widgets/Popular_Widget.class.php:9
+#, fuzzy
+msgid "PSE-Populäre Events"
+msgstr "PSE Popular Events"
+
+#: lib/widgets/Popular_Widget.class.php:16
+#, fuzzy
+msgid "Liste beliebter Ereignisse anzeigen"
+msgstr "Show list of popular events"
+
+#: lib/widgets/Popular_Widget.class.php:19
+#, fuzzy
+msgid "Populäre Events"
+msgstr "Popular events"
+
+#: lib/widgets/Popular_Widget.class.php:21
+#, fuzzy
+msgid "Die beliebtesten Veranstaltungen"
+msgstr "The most popular events"
+
+#: lib/widgets/Popular_Widget.class.php:36
+#, fuzzy
+msgid "Am beliebtesten"
+msgstr "Most popular"
+
+#: lib/widgets/Popular_Widget.class.php:84
+#, fuzzy
+msgid "Keine beliebten Veranstaltungen."
+msgstr "No popular events."
+
+#: lib/widgets/Popular_Widget.class.php:122
+#: lib/widgets/Upcoming_Widget.class.php:149
+#, fuzzy
+msgid "Auszug anzeigen"
+msgstr "Show excerpt"
+
+#: lib/widgets/Popular_Widget.class.php:125
+#, fuzzy
+msgid ""
+"Beschränke den Auszug auf so viele Wörter <small>(<code>0</code> für kein "
+"Limit)</small>:"
+msgstr ""
+"Limit the excerpt to this many words <small>(<code>0</code> for no limit)</"
+"small>:"
+
+#: lib/widgets/Popular_Widget.class.php:139
+#, fuzzy
+msgid "Miniaturansicht anzeigen"
+msgstr "Show thumbnail"
+
+#: lib/widgets/UpcomingCalendar_Widget.class.php:8
+#, fuzzy
+msgid "Zeigt eine Liste der bevorstehenden Ereignisse auf Deiner Webseite an"
+msgstr "Displays a list of upcoming events on your website"
+
+#: lib/widgets/UpcomingCalendar_Widget.class.php:16
+#, fuzzy
+msgid "PSE-Kalender bevorstehend"
+msgstr "PSE calendar forthcoming"
+
+#: lib/widgets/UpcomingCalendar_Widget.class.php:50
+#, fuzzy
+msgid "Netzwerkweit?"
+msgstr "Network-wide?"
+
+#: lib/widgets/UpcomingCalendar_Widget.class.php:62
+#: lib/widgets/Upcoming_Widget.class.php:187
+#, fuzzy
+msgid "Nur Ereignisse aus dieser Kategorie"
+msgstr "Only events from this category"
+
+#: lib/widgets/Upcoming_Widget.class.php:9
+#, fuzzy
+msgid "PSE-Kommende Veranstaltungen"
+msgstr "PSE-Coming events"
+
+#: lib/widgets/Upcoming_Widget.class.php:19
+#, fuzzy
+msgid "Liste der bevorstehenden Ereignisse anzeigen"
+msgstr "Show list of upcoming events"
+
+#: lib/widgets/Upcoming_Widget.class.php:22
+#: lib/widgets/Upcoming_Widget.class.php:38
+#, fuzzy
+msgid "Bevorstehend"
+msgstr "Upcoming"
+
+#: lib/widgets/Upcoming_Widget.class.php:24
+#, fuzzy
+msgid "Kommende Veranstaltungen"
+msgstr "Upcoming events"
+
+#: lib/widgets/Upcoming_Widget.class.php:93
+#, fuzzy
+msgid "Keine bevorstehenden Veranstaltungen."
+msgstr "No upcoming events."
+
+#: lib/widgets/Upcoming_Widget.class.php:141
+msgid "Datum anzeigen"
+msgstr "Show date"
+
+#: lib/widgets/Upcoming_Widget.class.php:152
+#, fuzzy
+msgid ""
+"Beschränke meinen Auszug auf so viele Wörter <small>(<code>0</code> ohne "
+"Begrenzung)</small>:"
+msgstr ""
+"Limit my excerpt to this many words <small>(<code>0</code> without limit)</"
+"small>:"
+
+#: lib/widgets/Upcoming_Widget.class.php:166
+#, fuzzy
+msgid "Miniaturbild anzeigen"
+msgstr "Show thumbnail"
+
+#: lib/widgets/Upcoming_Widget.class.php:178
+#, fuzzy
+msgid "Lookahead"
+msgstr "Lookahead"
+
+#: lib/widgets/Upcoming_Widget.class.php:182
+#, fuzzy, php-format
+msgid "%d Wochen"
+msgstr "%d Weeks"
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:56
+#, fuzzy
+msgid "View details"
+msgstr "View details"
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:79
+#, fuzzy, php-format
+msgid "Weitere Informationen zu %s"
+msgstr "Further information on %s"
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:130
+#, fuzzy
+msgid "Auf neuere Version prüfen"
+msgstr "Check for newer version"
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:217
+#, fuzzy, php-format
+msgctxt "the plugin title"
+msgid "Keine neuere Version von %s im PSOURCE REPO gefunden."
+msgstr "No newer version of %s found in PSOURCE REPO."
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:219
+#, fuzzy, php-format
+msgctxt "the plugin title"
+msgid "Im PSOURCE REPO ist eine <b>neuere Version von %s</b> verfügbar!."
+msgstr "A <b>newer version of %s</b> is available in the PSOURCE REPO!"
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:221
+#, fuzzy, php-format
+msgctxt "the plugin title"
+msgid ""
+"Entschuldige, es konnte nicht festgestellt werden, ob Updates für %s "
+"verfügbar sind."
+msgstr ""
+"Sorry, it could not be determined whether updates are available for %s."
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:227
+#, fuzzy, php-format
+msgid "Unbekannter PSOURCE-UPDATTER-Status \"%s\""
+msgstr "Unknown PSOURCE-UPDATTER status \"%s\""
+
+#: psource/psource-plugin-update/Puc/v5p0/Vcs/PluginUpdateChecker.php:98
+#, fuzzy
+msgid "There is no changelog available."
+msgstr "There is no changelog available."
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+msgid "PS Events"
+msgstr "PS Events"
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid ""
+"https://n3rds.work/piestingtal_source/ps-events-eventmanagement-fuer-"
+"wordpress/"
+msgstr ""
+"https://n3rds.work/piestingtal_source/ps-events-eventmanagement-fuer-"
+"wordpress/"
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "DerN3rd (WMS N3rds@Work)"
+msgstr "TheN3rd (WMS N3rds@Work)"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://n3rds.work"
+msgstr "https://n3rds.work"
