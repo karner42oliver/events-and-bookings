@@ -6,8 +6,8 @@ title: "Events+"
 <h2 align="center" style="color:#38c2bb;">📚 Events+</h2>
 
 <div class="menu">
-  <a href="https://github.com/cp-psource/events-and-bookings/discussions" style="color:#38c2bb;">💬 Forum</a>
-  <a href="https://github.com/cp-psource/events-and-bookings/releases" style="color:#38c2bb;">⬇️ Download</a>
+  <a href="https://github.com/Power-Source/events-and-bookings/discussions" style="color:#38c2bb;">💬 Forum</a>
+  <a href="https://github.com/Power-Source/events-and-bookings/releases" style="color:#38c2bb;">⬇️ Download</a>
 </div>
  
 

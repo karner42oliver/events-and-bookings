@@ -9,7 +9,7 @@ Domain Path: languages
 Version: 1.0.0
 Requires at least: 4.6
 Tested up to: 5.7
-Author URI: https://github.com/cp-psource
+Author URI: https://github.com/Power-Source
 */
 // PS Update Manager - Hinweis wenn nicht installiert
 add_action( 'admin_notices', function() {

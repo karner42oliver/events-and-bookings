@@ -74,84 +74,8 @@ Erstelle Deine Mailingliste und mache es Benutzern einfach, ihren Platz mit eine
 Begeistere die Teilnehmer für Deine Veranstaltung. Verbreite das Wort mit automatisiertem Social Sharing, wenn Teilnehmer sich melden, damit sie ihren Freunden mitteilen können, was sie verpassen.
 
 
-[Projektseite](https://cp-psource.github.io/ps-events/)
-[GitHub](https://github.com/piestingtal-source/ps-events)
-
-[POWERED BY PSOURCE](https://github.com/cp-psource)
-
 == ChangeLog ==
 
 = 1.0.0 =
 
-* Fix: Frontend Uploader
-
-= 1.4.4 =
-
-* Fix load_plugin_textdomain
-* Fix some deprecated PhP
-
-= 1.4.3 =
-
-* Updater 1.3
-* Entwicklertools hinzugefügt
-
-= 1.4.2 =
-
-* CSS Fix Responsive RSVP Buttons
-* Fix Property Null Gästeliste
-* Fix Deprecated .toggle()
-* Fix Deprecated .submit()
-* Fix Deprecated .mouseover()
-* Fix Deprecated .mouseout()
-* Fix Deprecated .mouseleave()
-* Fix Deprecated .mouseenter()
-* Fix Deprecated .mousedown()
-* Fix Deprecated .load()
-* Fix Deprecated .keyup()
-* Fix Deprecated .keypress()
-* Fix Deprecated .keydown()
-* Fix Deprecated .trim()
-* Fix Deprecated jQuery.parseJSON()
-* Fix Deprecated .now()
-* Fix Deprecated jQuery.isArray()
-* Fix Deprecated jQuery.isFunction()
-
-
-= 1.4.1 =
-
-* Frontendeditor CSS Anpassung
-* Textanpassungen
-* Minify CSS hinzugefügt
-* Psource Updater 1.2
-
-= 1.4.0 =
-
-* Anpassung Textdomain
-* $current_user->id => $current_user->ID
-* Text-Fixes
-* PO File hinzugefügt
-
-= 1.3.9 =
-
-* Fix Undefined index
-* Textanpassungen
-* Fix: deprecated create_function
-
-= 1.3.8 =
-
-* CSS Fix Kalender Mobilansicht (Zoom ist nun 1)
-* CSS Kalender-Text Größenanpassung (1em)
-* Event-Editor Text-Anpassung
-* CSS Anpassungen Editor (Optimierung Datums-Fenster)
-* Viele Text-Verbesserungen
-* Widgets unter "PSE" gruppiert
-
-= 1.3.7 =
-
-* PSource Updater v1.1 integriert
-* PSeCommerce Links korrigiert
-
-= 1.3.6 =
-
-* Overhauled von PSOURCE
-* Release WMS N@W Netzwerksuche
+* Release
